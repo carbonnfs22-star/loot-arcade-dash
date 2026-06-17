@@ -1,5 +1,5 @@
 {
-  "updated": "17.06.2026 12:26 UTC",
+  "updated": "17.06.2026 14:26 UTC",
   "next_hint": "обновление каждые 6 ч",
   "paper_equity": 11699.62,
   "paper_capital": 11700.0,
@@ -9,26 +9,37 @@
   "kucoin_ok": true,
   "kucoin_scan": [
     {
-      "symbol": "SPXUSDT",
-      "price": 0.4325,
-      "change_pct": 11.64,
-      "tag": "KC pump −10.7% от хая",
+      "symbol": "ESPORTSUSDT",
+      "price": 0.1827,
+      "change_pct": 23.86,
+      "tag": "KC pump −16.1% от хая",
       "fee_pct": 0.1,
       "slip_pct": 0.2,
-      "buy_net": 0.433797,
-      "tp_net": 0.495883,
-      "sl_net": 0.40533
+      "buy_net": 0.183248,
+      "tp_net": 0.209475,
+      "sl_net": 0.171223
+    },
+    {
+      "symbol": "SPXUSDT",
+      "price": 0.4445,
+      "change_pct": 15.06,
+      "tag": "KC pump −8.2% от хая",
+      "fee_pct": 0.1,
+      "slip_pct": 0.2,
+      "buy_net": 0.445833,
+      "tp_net": 0.509641,
+      "sl_net": 0.416577
     },
     {
       "symbol": "UNIUSDT",
-      "price": 3.2775,
-      "change_pct": 8.32,
-      "tag": "KC pump −10.1% от хая",
+      "price": 3.2442,
+      "change_pct": 8.7,
+      "tag": "KC pump −11.0% от хая",
       "fee_pct": 0.1,
       "slip_pct": 0.2,
-      "buy_net": 3.287332,
-      "tp_net": 3.757818,
-      "sl_net": 3.071607
+      "buy_net": 3.253933,
+      "tp_net": 3.719638,
+      "sl_net": 3.040399
     }
   ],
   "market_v2": {
@@ -39,17 +50,17 @@
     "reasons": [
       "F&G fear (22) — осторожно",
       "BTC ниже EMA20 — слабый тренд",
-      "Trending: SIREN, UNI, WLD"
+      "Trending: XPL, ZIG, ASTER"
     ],
     "fg": 22,
     "fg_label": "Extreme Fear",
     "btc": {
-      "price": 64698.3,
-      "ema20": 65552.77,
-      "ema50": 66048.56,
+      "price": 65229.1,
+      "ema20": 65504.29,
+      "ema50": 66009.4,
       "above_ema20": false,
       "above_ema50": false,
-      "chg_24h": -2.04
+      "chg_24h": -0.98
     }
   },
   "rank": [
@@ -719,12 +730,12 @@
       "v2_id": "I2",
       "v1_name": "Sniper2",
       "v2_name": "Sniper2-v2",
-      "v1_eq": 299.10459178864676,
+      "v1_eq": 302.3254747243099,
       "v2_eq": 300.0,
-      "v1_pnl": -0.29846940378441406,
+      "v1_pnl": 0.7751582414366377,
       "v2_pnl": 0.0,
-      "diff_pnl": 0.3,
-      "winner": "I2",
+      "diff_pnl": -0.78,
+      "winner": "I",
       "v1_trades": 3,
       "v2_trades": 0
     },
@@ -747,13 +758,13 @@
       "v2_id": "R2",
       "v1_name": "Sniper-Tight",
       "v2_name": "Sniper-Tight-v2",
-      "v1_eq": 298.9649006906379,
+      "v1_eq": 199.88273044489677,
       "v2_eq": 300.0,
-      "v1_pnl": -0.34503310312070806,
+      "v1_pnl": -33.372423185034414,
       "v2_pnl": 0.0,
-      "diff_pnl": 0.35,
+      "diff_pnl": 33.37,
       "winner": "R2",
-      "v1_trades": 3,
+      "v1_trades": 2,
       "v2_trades": 0
     },
     {
@@ -761,12 +772,12 @@
       "v2_id": "S2",
       "v1_name": "Sniper-Wide",
       "v2_name": "Sniper-Wide-v2",
-      "v1_eq": 299.6812854248765,
+      "v1_eq": 301.8352511239385,
       "v2_eq": 300.0,
-      "v1_pnl": -0.1062381917078407,
+      "v1_pnl": 0.6117503746461732,
       "v2_pnl": 0.0,
-      "diff_pnl": 0.11,
-      "winner": "S2",
+      "diff_pnl": -0.61,
+      "winner": "S",
       "v1_trades": 1,
       "v2_trades": 0
     },
@@ -775,12 +786,12 @@
       "v2_id": "T2",
       "v1_name": "Sniper-Fast",
       "v2_name": "Sniper-Fast-v2",
-      "v1_eq": 299.27519959804044,
+      "v1_eq": 302.95362853900644,
       "v2_eq": 300.0,
-      "v1_pnl": -0.2416001339865185,
+      "v1_pnl": 0.9845428463354816,
       "v2_pnl": 0.0,
-      "diff_pnl": 0.24,
-      "winner": "T2",
+      "diff_pnl": -0.98,
+      "winner": "T",
       "v1_trades": 3,
       "v2_trades": 0
     },
@@ -789,12 +800,12 @@
       "v2_id": "V2",
       "v1_name": "Sniper-Vol",
       "v2_name": "Sniper-Vol-v2",
-      "v1_eq": 299.39656036361407,
+      "v1_eq": 300.7888548424504,
       "v2_eq": 300.0,
-      "v1_pnl": -0.20114654546197624,
+      "v1_pnl": 0.26295161415013507,
       "v2_pnl": 0.0,
-      "diff_pnl": 0.2,
-      "winner": "V2",
+      "diff_pnl": -0.26,
+      "winner": "V",
       "v1_trades": 2,
       "v2_trades": 0
     },
@@ -803,12 +814,12 @@
       "v2_id": "G2",
       "v1_name": "Meme",
       "v2_name": "Meme-v2",
-      "v1_eq": 299.46098342783307,
+      "v1_eq": 300.27499930565597,
       "v2_eq": 300.0,
-      "v1_pnl": -0.1796721907223097,
+      "v1_pnl": 0.0916664352186558,
       "v2_pnl": 0.0,
-      "diff_pnl": 0.18,
-      "winner": "G2",
+      "diff_pnl": -0.09,
+      "winner": "G",
       "v1_trades": 4,
       "v2_trades": 0
     }
@@ -821,7 +832,7 @@
       "total_eq": 300.0,
       "total_pnl": 0.0,
       "trades": 0,
-      "best_sym": "SQDUSDT"
+      "best_sym": "TACUSDT"
     },
     {
       "id": "U2",
@@ -830,7 +841,7 @@
       "total_eq": 300.0,
       "total_pnl": 0.0,
       "trades": 0,
-      "best_sym": "TRIAUSDT"
+      "best_sym": "XPLUSDT"
     },
     {
       "id": "R2",
@@ -839,7 +850,7 @@
       "total_eq": 300.0,
       "total_pnl": 0.0,
       "trades": 0,
-      "best_sym": "SQDUSDT"
+      "best_sym": "TACUSDT"
     },
     {
       "id": "S2",
@@ -848,7 +859,7 @@
       "total_eq": 300.0,
       "total_pnl": 0.0,
       "trades": 0,
-      "best_sym": "SQDUSDT"
+      "best_sym": "TACUSDT"
     },
     {
       "id": "T2",
@@ -857,7 +868,7 @@
       "total_eq": 300.0,
       "total_pnl": 0.0,
       "trades": 0,
-      "best_sym": "SQDUSDT"
+      "best_sym": "TACUSDT"
     },
     {
       "id": "V2",
@@ -875,9 +886,12 @@
       "total_eq": 300.0,
       "total_pnl": 0.0,
       "trades": 0,
-      "best_sym": "FLOKIUSDT"
+      "best_sym": "BONKUSDT"
     }
   ],
+  "v2_enter_ok": false,
+  "v2_market_score": 23,
+  "v2_action_ru": "ЖДАТЬ",
   "v2_fee": "taker 0.10% + slippage 0.20%",
   "winners_n": 8,
   "losers_n": 21,
