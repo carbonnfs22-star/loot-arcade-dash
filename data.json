@@ -1,5 +1,5 @@
 {
-  "updated": "17.06.2026 11:01 UTC",
+  "updated": "17.06.2026 11:09 UTC",
   "next_hint": "обновление каждые 6 ч",
   "paper_equity": 33044.49,
   "paper_capital": 32300.0,
@@ -582,8 +582,98 @@
       "profit_pct": 3.2,
       "fees_usd": 0.0,
       "trades": 0
+    },
+    {
+      "id": "Z",
+      "name": "Mom-Perp",
+      "branch": "futures",
+      "capital": 500.0,
+      "equity": 513.92,
+      "profit_usd": 13.92,
+      "profit_pct": 2.78,
+      "fees_usd": 0.0,
+      "trades": 0
+    },
+    {
+      "id": "W",
+      "name": "Perp-Sniper",
+      "branch": "futures",
+      "capital": 500.0,
+      "equity": 512.16,
+      "profit_usd": 12.16,
+      "profit_pct": 2.43,
+      "fees_usd": 0.0,
+      "trades": 0
+    },
+    {
+      "id": "E",
+      "name": "MeanRev",
+      "branch": "spot",
+      "capital": 1000.0,
+      "equity": 1007.4,
+      "profit_usd": 7.4,
+      "profit_pct": 0.74,
+      "fees_usd": 0.08,
+      "trades": 5
+    },
+    {
+      "id": "N",
+      "name": "Scalp-Perp",
+      "branch": "futures",
+      "capital": 500.0,
+      "equity": 506.99,
+      "profit_usd": 6.99,
+      "profit_pct": 1.4,
+      "fees_usd": 0.0,
+      "trades": 0
+    },
+    {
+      "id": "R",
+      "name": "Gift-cards",
+      "branch": "flip",
+      "capital": 300.0,
+      "equity": 304.49,
+      "profit_usd": 4.49,
+      "profit_pct": 1.5,
+      "fees_usd": 0.0,
+      "trades": 0
+    },
+    {
+      "id": "O",
+      "name": "Cross-market",
+      "branch": "flip",
+      "capital": 300.0,
+      "equity": 303.16,
+      "profit_usd": 3.16,
+      "profit_pct": 1.05,
+      "fees_usd": 0.0,
+      "trades": 0
+    },
+    {
+      "id": "T",
+      "name": "Fast-flip",
+      "branch": "flip",
+      "capital": 300.0,
+      "equity": 303.16,
+      "profit_usd": 3.16,
+      "profit_pct": 1.05,
+      "fees_usd": 0.0,
+      "trades": 0
     }
   ],
+  "leader": {
+    "id": "U",
+    "name": "Sniper-Deep",
+    "branch": "sniper2",
+    "capital": 1000.0,
+    "equity": 1611.64,
+    "profit_usd": 611.64,
+    "profit_pct": 61.16,
+    "fees_usd": 0.48,
+    "trades": 4
+  },
+  "total_trades": 191,
+  "total_fees": 11.45,
   "branches": [
     {
       "branch": "sniper2",
