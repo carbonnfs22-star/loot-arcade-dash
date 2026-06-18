@@ -1,6 +1,6 @@
 {
-  "updated": "18.06.2026 02:10 UTC",
-  "next_hint": "обновление каждый час",
+  "updated": "18.06.2026 14:54 UTC",
+  "next_hint": "данные 1ч · сайт GitHub 6ч",
   "paper_equity": 11699.62,
   "paper_capital": 11700.0,
   "paper_profit": -0.38,
@@ -50,17 +50,17 @@
     "reasons": [
       "F&G extreme fear (15) — паника, альты опасны",
       "BTC ниже EMA20 — слабый тренд",
-      "Trending: PENGU, XPL, SYN"
+      "Trending: ANT, BP, SYN"
     ],
     "fg": 15,
     "fg_label": "Extreme Fear",
     "btc": {
-      "price": 64506.6,
-      "ema20": 65071.91,
-      "ema50": 65660.51,
+      "price": 63904.2,
+      "ema20": 64259.66,
+      "ema50": 65070.81,
       "above_ema20": false,
       "above_ema50": false,
-      "chg_24h": -2.18
+      "chg_24h": -2.81
     }
   },
   "rank": [
@@ -496,25 +496,13 @@
   ],
   "rank_kucoin": [
     {
-      "id": "X30",
-      "name": "Mix-11",
-      "branch": "sniper_lab",
-      "capital": 300.0,
-      "equity": 449.85,
-      "profit_usd": 149.85,
-      "profit_pct": 49.95,
-      "fees_usd": 0.0,
-      "trades": 1,
-      "best_sym": "TACUSDT"
-    },
-    {
       "id": "X17",
       "name": "Vol-10",
       "branch": "sniper_lab",
       "capital": 300.0,
-      "equity": 442.63,
-      "profit_usd": 142.63,
-      "profit_pct": 47.54,
+      "equity": 441.53,
+      "profit_usd": 141.53,
+      "profit_pct": 47.18,
       "fees_usd": 0.0,
       "trades": 3,
       "best_sym": "SQDUSDT"
@@ -524,132 +512,24 @@
       "name": "Bal-11",
       "branch": "sniper_lab",
       "capital": 300.0,
-      "equity": 396.8,
-      "profit_usd": 96.8,
-      "profit_pct": 32.27,
+      "equity": 343.37,
+      "profit_usd": 43.37,
+      "profit_pct": 14.46,
       "fees_usd": 0.0,
-      "trades": 4,
-      "best_sym": "TACUSDT"
+      "trades": 7,
+      "best_sym": "SQDUSDT"
     },
     {
       "id": "X08",
       "name": "Std-10",
       "branch": "sniper_lab",
       "capital": 300.0,
-      "equity": 396.18,
-      "profit_usd": 96.18,
-      "profit_pct": 32.06,
+      "equity": 342.5,
+      "profit_usd": 42.5,
+      "profit_pct": 14.17,
       "fees_usd": 0.0,
-      "trades": 4,
-      "best_sym": "TACUSDT"
-    },
-    {
-      "id": "R2",
-      "name": "Sniper-Tight-v2",
-      "branch": "kucoin_v2",
-      "capital": 300.0,
-      "equity": 302.68,
-      "profit_usd": 2.68,
-      "profit_pct": 0.89,
-      "fees_usd": 0.0,
-      "trades": 5,
-      "best_sym": "TACUSDT"
-    },
-    {
-      "id": "X02",
-      "name": "Scalp-5",
-      "branch": "sniper_lab",
-      "capital": 300.0,
-      "equity": 302.64,
-      "profit_usd": 2.64,
-      "profit_pct": 0.88,
-      "fees_usd": 0.0,
-      "trades": 5,
-      "best_sym": "TACUSDT"
-    },
-    {
-      "id": "T2",
-      "name": "Sniper-Fast-v2",
-      "branch": "kucoin_v2",
-      "capital": 300.0,
-      "equity": 300.67,
-      "profit_usd": 0.67,
-      "profit_pct": 0.22,
-      "fees_usd": 0.0,
-      "trades": 6,
-      "best_sym": "TACUSDT"
-    },
-    {
-      "id": "X01",
-      "name": "Scalp-4",
-      "branch": "sniper_lab",
-      "capital": 300.0,
-      "equity": 300.05,
-      "profit_usd": 0.05,
-      "profit_pct": 0.02,
-      "fees_usd": 0.0,
-      "trades": 5,
-      "best_sym": "TACUSDT"
-    },
-    {
-      "id": "U2",
-      "name": "Sniper-Deep-v2",
-      "branch": "kucoin_v2",
-      "capital": 300.0,
-      "equity": 300.0,
-      "profit_usd": 0.0,
-      "profit_pct": 0.0,
-      "fees_usd": 0.0,
-      "trades": 0,
-      "best_sym": "TACUSDT"
-    },
-    {
-      "id": "X12",
-      "name": "Wide-14",
-      "branch": "sniper_lab",
-      "capital": 300.0,
-      "equity": 300.0,
-      "profit_usd": 0.0,
-      "profit_pct": 0.0,
-      "fees_usd": 0.0,
-      "trades": 0,
-      "best_sym": "TACUSDT"
-    },
-    {
-      "id": "X13",
-      "name": "Deep-15",
-      "branch": "sniper_lab",
-      "capital": 300.0,
-      "equity": 300.0,
-      "profit_usd": 0.0,
-      "profit_pct": 0.0,
-      "fees_usd": 0.0,
-      "trades": 0,
-      "best_sym": "TACUSDT"
-    },
-    {
-      "id": "X14",
-      "name": "Deep-18",
-      "branch": "sniper_lab",
-      "capital": 300.0,
-      "equity": 300.0,
-      "profit_usd": 0.0,
-      "profit_pct": 0.0,
-      "fees_usd": 0.0,
-      "trades": 0,
-      "best_sym": "TACUSDT"
-    },
-    {
-      "id": "X15",
-      "name": "Deep-20",
-      "branch": "sniper_lab",
-      "capital": 300.0,
-      "equity": 300.0,
-      "profit_usd": 0.0,
-      "profit_pct": 0.0,
-      "fees_usd": 0.0,
-      "trades": 0,
-      "best_sym": "TACUSDT"
+      "trades": 7,
+      "best_sym": "SQDUSDT"
     },
     {
       "id": "X18",
@@ -661,162 +541,174 @@
       "profit_pct": 0.0,
       "fees_usd": 0.0,
       "trades": 0,
-      "best_sym": "TACUSDT"
+      "best_sym": "ZEREBROUSDT"
+    },
+    {
+      "id": "X15",
+      "name": "Deep-20",
+      "branch": "sniper_lab",
+      "capital": 300.0,
+      "equity": 298.33,
+      "profit_usd": -1.67,
+      "profit_pct": -0.56,
+      "fees_usd": 0.0,
+      "trades": 1,
+      "best_sym": "OBTUSDT"
     },
     {
       "id": "X25",
       "name": "Runner-12",
       "branch": "sniper_lab",
       "capital": 300.0,
-      "equity": 300.0,
-      "profit_usd": 0.0,
-      "profit_pct": 0.0,
+      "equity": 298.26,
+      "profit_usd": -1.74,
+      "profit_pct": -0.58,
       "fees_usd": 0.0,
-      "trades": 0,
-      "best_sym": "TACUSDT"
+      "trades": 1,
+      "best_sym": "OBTUSDT"
     },
     {
       "id": "X29",
       "name": "Safe-12",
       "branch": "sniper_lab",
       "capital": 300.0,
-      "equity": 300.0,
-      "profit_usd": 0.0,
-      "profit_pct": 0.0,
-      "fees_usd": 0.0,
-      "trades": 0,
-      "best_sym": "TACUSDT"
-    },
-    {
-      "id": "S2",
-      "name": "Sniper-Wide-v2",
-      "branch": "kucoin_v2",
-      "capital": 300.0,
-      "equity": 299.9,
-      "profit_usd": -0.1,
-      "profit_pct": -0.03,
+      "equity": 298.26,
+      "profit_usd": -1.74,
+      "profit_pct": -0.58,
       "fees_usd": 0.0,
       "trades": 1,
-      "best_sym": "TACUSDT"
+      "best_sym": "OBTUSDT"
     },
     {
-      "id": "X19",
-      "name": "LoVol-6",
+      "id": "X12",
+      "name": "Wide-14",
+      "branch": "sniper_lab",
+      "capital": 300.0,
+      "equity": 298.13,
+      "profit_usd": -1.87,
+      "profit_pct": -0.62,
+      "fees_usd": 0.0,
+      "trades": 1,
+      "best_sym": "OBTUSDT"
+    },
+    {
+      "id": "X14",
+      "name": "Deep-18",
+      "branch": "sniper_lab",
+      "capital": 300.0,
+      "equity": 298.13,
+      "profit_usd": -1.87,
+      "profit_pct": -0.62,
+      "fees_usd": 0.0,
+      "trades": 1,
+      "best_sym": "OBTUSDT"
+    },
+    {
+      "id": "U2",
+      "name": "Sniper-Deep-v2",
+      "branch": "kucoin_v2",
+      "capital": 300.0,
+      "equity": 298.0,
+      "profit_usd": -2.0,
+      "profit_pct": -0.67,
+      "fees_usd": 0.0,
+      "trades": 1,
+      "best_sym": "OBTUSDT"
+    },
+    {
+      "id": "X13",
+      "name": "Deep-15",
       "branch": "sniper_lab",
       "capital": 300.0,
       "equity": 298.0,
       "profit_usd": -2.0,
       "profit_pct": -0.67,
       "fees_usd": 0.0,
-      "trades": 4,
-      "best_sym": "IDUSDT"
-    },
-    {
-      "id": "G2",
-      "name": "Meme-v2",
-      "branch": "kucoin_v2",
-      "capital": 300.0,
-      "equity": 297.97,
-      "profit_usd": -2.03,
-      "profit_pct": -0.68,
-      "fees_usd": 0.0,
-      "trades": 4,
-      "best_sym": "SHIBUSDT"
-    },
-    {
-      "id": "X03",
-      "name": "Scalp-6",
-      "branch": "sniper_lab",
-      "capital": 300.0,
-      "equity": 297.86,
-      "profit_usd": -2.14,
-      "profit_pct": -0.71,
-      "fees_usd": 0.0,
-      "trades": 4,
-      "best_sym": "TACUSDT"
-    },
-    {
-      "id": "X06",
-      "name": "Std-8",
-      "branch": "sniper_lab",
-      "capital": 300.0,
-      "equity": 297.65,
-      "profit_usd": -2.35,
-      "profit_pct": -0.78,
-      "fees_usd": 0.0,
-      "trades": 4,
-      "best_sym": "TACUSDT"
-    },
-    {
-      "id": "I2",
-      "name": "Sniper2-v2",
-      "branch": "kucoin_v2",
-      "capital": 300.0,
-      "equity": 297.64,
-      "profit_usd": -2.36,
-      "profit_pct": -0.79,
-      "fees_usd": 0.0,
-      "trades": 4,
-      "best_sym": "IDUSDT"
-    },
-    {
-      "id": "X20",
-      "name": "LoVol-8",
-      "branch": "sniper_lab",
-      "capital": 300.0,
-      "equity": 297.59,
-      "profit_usd": -2.41,
-      "profit_pct": -0.8,
-      "fees_usd": 0.0,
-      "trades": 3,
-      "best_sym": "TACUSDT"
-    },
-    {
-      "id": "X04",
-      "name": "Fast-5",
-      "branch": "sniper_lab",
-      "capital": 300.0,
-      "equity": 297.48,
-      "profit_usd": -2.52,
-      "profit_pct": -0.84,
-      "fees_usd": 0.0,
-      "trades": 4,
-      "best_sym": "TACUSDT"
-    },
-    {
-      "id": "X23",
-      "name": "Runner-8",
-      "branch": "sniper_lab",
-      "capital": 300.0,
-      "equity": 297.27,
-      "profit_usd": -2.73,
-      "profit_pct": -0.91,
-      "fees_usd": 0.0,
-      "trades": 3,
-      "best_sym": "TACUSDT"
+      "trades": 1,
+      "best_sym": "OBTUSDT"
     },
     {
       "id": "X24",
       "name": "Runner-10",
       "branch": "sniper_lab",
       "capital": 300.0,
-      "equity": 297.03,
-      "profit_usd": -2.97,
-      "profit_pct": -0.99,
+      "equity": 295.5,
+      "profit_usd": -4.5,
+      "profit_pct": -1.5,
       "fees_usd": 0.0,
-      "trades": 3,
-      "best_sym": "TACUSDT"
+      "trades": 4,
+      "best_sym": "OBTUSDT"
     },
     {
       "id": "X28",
       "name": "Safe-10",
       "branch": "sniper_lab",
       "capital": 300.0,
-      "equity": 297.03,
-      "profit_usd": -2.97,
-      "profit_pct": -0.99,
+      "equity": 295.51,
+      "profit_usd": -4.49,
+      "profit_pct": -1.5,
       "fees_usd": 0.0,
-      "trades": 3,
+      "trades": 4,
+      "best_sym": "OBTUSDT"
+    },
+    {
+      "id": "X30",
+      "name": "Mix-11",
+      "branch": "sniper_lab",
+      "capital": 300.0,
+      "equity": 295.15,
+      "profit_usd": -4.85,
+      "profit_pct": -1.62,
+      "fees_usd": 0.0,
+      "trades": 4,
+      "best_sym": "OBTUSDT"
+    },
+    {
+      "id": "X07",
+      "name": "Std-8b",
+      "branch": "sniper_lab",
+      "capital": 300.0,
+      "equity": 294.48,
+      "profit_usd": -5.52,
+      "profit_pct": -1.84,
+      "fees_usd": 0.0,
+      "trades": 5,
+      "best_sym": "OBTUSDT"
+    },
+    {
+      "id": "X09",
+      "name": "Bal-9",
+      "branch": "sniper_lab",
+      "capital": 300.0,
+      "equity": 294.44,
+      "profit_usd": -5.56,
+      "profit_pct": -1.85,
+      "fees_usd": 0.0,
+      "trades": 5,
+      "best_sym": "OBTUSDT"
+    },
+    {
+      "id": "G2",
+      "name": "Meme-v2",
+      "branch": "kucoin_v2",
+      "capital": 300.0,
+      "equity": 294.32,
+      "profit_usd": -5.68,
+      "profit_pct": -1.89,
+      "fees_usd": 0.0,
+      "trades": 4,
+      "best_sym": "WIFUSDT"
+    },
+    {
+      "id": "R2",
+      "name": "Sniper-Tight-v2",
+      "branch": "kucoin_v2",
+      "capital": 300.0,
+      "equity": 294.1,
+      "profit_usd": -5.9,
+      "profit_pct": -1.97,
+      "fees_usd": 0.0,
+      "trades": 9,
       "best_sym": "TACUSDT"
     },
     {
@@ -824,143 +716,239 @@
       "name": "Tight-4",
       "branch": "sniper_lab",
       "capital": 300.0,
-      "equity": 296.97,
-      "profit_usd": -3.03,
-      "profit_pct": -1.01,
-      "fees_usd": 0.0,
-      "trades": 3,
-      "best_sym": "TACUSDT"
-    },
-    {
-      "id": "X09",
-      "name": "Bal-9",
-      "branch": "sniper_lab",
-      "capital": 300.0,
-      "equity": 296.68,
-      "profit_usd": -3.32,
-      "profit_pct": -1.11,
-      "fees_usd": 0.0,
-      "trades": 4,
-      "best_sym": "TACUSDT"
-    },
-    {
-      "id": "X07",
-      "name": "Std-8b",
-      "branch": "sniper_lab",
-      "capital": 300.0,
-      "equity": 296.54,
-      "profit_usd": -3.46,
-      "profit_pct": -1.15,
-      "fees_usd": 0.0,
-      "trades": 4,
-      "best_sym": "TACUSDT"
-    },
-    {
-      "id": "X11",
-      "name": "Wide-12",
-      "branch": "sniper_lab",
-      "capital": 300.0,
-      "equity": 296.44,
-      "profit_usd": -3.56,
-      "profit_pct": -1.19,
-      "fees_usd": 0.0,
-      "trades": 3,
-      "best_sym": "TACUSDT"
-    },
-    {
-      "id": "X05",
-      "name": "Fast-7",
-      "branch": "sniper_lab",
-      "capital": 300.0,
-      "equity": 295.41,
-      "profit_usd": -4.59,
-      "profit_pct": -1.53,
+      "equity": 293.87,
+      "profit_usd": -6.13,
+      "profit_pct": -2.04,
       "fees_usd": 0.0,
       "trades": 6,
-      "best_sym": "TACUSDT"
+      "best_sym": "OBTUSDT"
     },
     {
-      "id": "X26",
-      "name": "Aggro-7",
+      "id": "X20",
+      "name": "LoVol-8",
       "branch": "sniper_lab",
       "capital": 300.0,
-      "equity": 294.75,
-      "profit_usd": -5.25,
-      "profit_pct": -1.75,
+      "equity": 293.83,
+      "profit_usd": -6.17,
+      "profit_pct": -2.06,
+      "fees_usd": 0.0,
+      "trades": 7,
+      "best_sym": "OBTUSDT"
+    },
+    {
+      "id": "X03",
+      "name": "Scalp-6",
+      "branch": "sniper_lab",
+      "capital": 300.0,
+      "equity": 293.1,
+      "profit_usd": -6.9,
+      "profit_pct": -2.3,
+      "fees_usd": 0.0,
+      "trades": 9,
+      "best_sym": "OBTUSDT"
+    },
+    {
+      "id": "X23",
+      "name": "Runner-8",
+      "branch": "sniper_lab",
+      "capital": 300.0,
+      "equity": 292.97,
+      "profit_usd": -7.03,
+      "profit_pct": -2.34,
       "fees_usd": 0.0,
       "trades": 6,
-      "best_sym": "TACUSDT"
+      "best_sym": "OBTUSDT"
     },
     {
-      "id": "X27",
-      "name": "Aggro-9",
+      "id": "X01",
+      "name": "Scalp-4",
       "branch": "sniper_lab",
       "capital": 300.0,
-      "equity": 294.45,
-      "profit_usd": -5.55,
-      "profit_pct": -1.85,
+      "equity": 292.91,
+      "profit_usd": -7.09,
+      "profit_pct": -2.36,
       "fees_usd": 0.0,
       "trades": 6,
-      "best_sym": "TACUSDT"
-    },
-    {
-      "id": "X16",
-      "name": "Vol-9",
-      "branch": "sniper_lab",
-      "capital": 300.0,
-      "equity": 294.2,
-      "profit_usd": -5.8,
-      "profit_pct": -1.93,
-      "fees_usd": 0.0,
-      "trades": 4,
-      "best_sym": "UNIUSDT"
-    },
-    {
-      "id": "V2",
-      "name": "Sniper-Vol-v2",
-      "branch": "kucoin_v2",
-      "capital": 300.0,
-      "equity": 293.72,
-      "profit_usd": -6.28,
-      "profit_pct": -2.09,
-      "fees_usd": 0.0,
-      "trades": 4,
-      "best_sym": "SPXUSDT"
+      "best_sym": "OBTUSDT"
     },
     {
       "id": "X22",
       "name": "Tight-6",
       "branch": "sniper_lab",
       "capital": 300.0,
-      "equity": 145.91,
-      "profit_usd": -154.09,
-      "profit_pct": -51.36,
+      "equity": 292.55,
+      "profit_usd": -7.45,
+      "profit_pct": -2.48,
       "fees_usd": 0.0,
-      "trades": 3,
+      "trades": 6,
+      "best_sym": "OBTUSDT"
+    },
+    {
+      "id": "X16",
+      "name": "Vol-9",
+      "branch": "sniper_lab",
+      "capital": 300.0,
+      "equity": 292.49,
+      "profit_usd": -7.51,
+      "profit_pct": -2.5,
+      "fees_usd": 0.0,
+      "trades": 5,
+      "best_sym": "UNIUSDT"
+    },
+    {
+      "id": "T2",
+      "name": "Sniper-Fast-v2",
+      "branch": "kucoin_v2",
+      "capital": 300.0,
+      "equity": 292.26,
+      "profit_usd": -7.74,
+      "profit_pct": -2.58,
+      "fees_usd": 0.0,
+      "trades": 9,
+      "best_sym": "OBTUSDT"
+    },
+    {
+      "id": "I2",
+      "name": "Sniper2-v2",
+      "branch": "kucoin_v2",
+      "capital": 300.0,
+      "equity": 292.24,
+      "profit_usd": -7.76,
+      "profit_pct": -2.59,
+      "fees_usd": 0.0,
+      "trades": 7,
+      "best_sym": "OBTUSDT"
+    },
+    {
+      "id": "X04",
+      "name": "Fast-5",
+      "branch": "sniper_lab",
+      "capital": 300.0,
+      "equity": 292.22,
+      "profit_usd": -7.78,
+      "profit_pct": -2.59,
+      "fees_usd": 0.0,
+      "trades": 9,
+      "best_sym": "OBTUSDT"
+    },
+    {
+      "id": "X19",
+      "name": "LoVol-6",
+      "branch": "sniper_lab",
+      "capital": 300.0,
+      "equity": 292.02,
+      "profit_usd": -7.98,
+      "profit_pct": -2.66,
+      "fees_usd": 0.0,
+      "trades": 9,
+      "best_sym": "OBTUSDT"
+    },
+    {
+      "id": "X05",
+      "name": "Fast-7",
+      "branch": "sniper_lab",
+      "capital": 300.0,
+      "equity": 291.8,
+      "profit_usd": -8.2,
+      "profit_pct": -2.73,
+      "fees_usd": 0.0,
+      "trades": 9,
+      "best_sym": "OBTUSDT"
+    },
+    {
+      "id": "X06",
+      "name": "Std-8",
+      "branch": "sniper_lab",
+      "capital": 300.0,
+      "equity": 291.64,
+      "profit_usd": -8.36,
+      "profit_pct": -2.79,
+      "fees_usd": 0.0,
+      "trades": 9,
+      "best_sym": "OBTUSDT"
+    },
+    {
+      "id": "X02",
+      "name": "Scalp-5",
+      "branch": "sniper_lab",
+      "capital": 300.0,
+      "equity": 291.1,
+      "profit_usd": -8.9,
+      "profit_pct": -2.97,
+      "fees_usd": 0.0,
+      "trades": 6,
+      "best_sym": "OBTUSDT"
+    },
+    {
+      "id": "X26",
+      "name": "Aggro-7",
+      "branch": "sniper_lab",
+      "capital": 300.0,
+      "equity": 290.49,
+      "profit_usd": -9.51,
+      "profit_pct": -3.17,
+      "fees_usd": 0.0,
+      "trades": 9,
+      "best_sym": "OBTUSDT"
+    },
+    {
+      "id": "X27",
+      "name": "Aggro-9",
+      "branch": "sniper_lab",
+      "capital": 300.0,
+      "equity": 290.4,
+      "profit_usd": -9.6,
+      "profit_pct": -3.2,
+      "fees_usd": 0.0,
+      "trades": 9,
+      "best_sym": "OBTUSDT"
+    },
+    {
+      "id": "X11",
+      "name": "Wide-12",
+      "branch": "sniper_lab",
+      "capital": 300.0,
+      "equity": 290.15,
+      "profit_usd": -9.85,
+      "profit_pct": -3.28,
+      "fees_usd": 0.0,
+      "trades": 6,
+      "best_sym": "OBTUSDT"
+    },
+    {
+      "id": "V2",
+      "name": "Sniper-Vol-v2",
+      "branch": "kucoin_v2",
+      "capital": 300.0,
+      "equity": 289.08,
+      "profit_usd": -10.92,
+      "profit_pct": -3.64,
+      "fees_usd": 0.0,
+      "trades": 6,
       "best_sym": "SQDUSDT"
+    },
+    {
+      "id": "S2",
+      "name": "Sniper-Wide-v2",
+      "branch": "kucoin_v2",
+      "capital": 300.0,
+      "equity": 244.86,
+      "profit_usd": -55.14,
+      "profit_pct": -18.38,
+      "fees_usd": 0.0,
+      "trades": 4,
+      "best_sym": "OBTUSDT"
     }
   ],
   "top": [
-    {
-      "id": "X30",
-      "name": "Mix-11",
-      "branch": "sniper_lab",
-      "capital": 300.0,
-      "equity": 449.85,
-      "profit_usd": 149.85,
-      "profit_pct": 49.95,
-      "fees_usd": 0.0,
-      "trades": 1,
-      "best_sym": "TACUSDT"
-    },
     {
       "id": "X17",
       "name": "Vol-10",
       "branch": "sniper_lab",
       "capital": 300.0,
-      "equity": 442.63,
-      "profit_usd": 142.63,
-      "profit_pct": 47.54,
+      "equity": 441.53,
+      "profit_usd": 141.53,
+      "profit_pct": 47.18,
       "fees_usd": 0.0,
       "trades": 3,
       "best_sym": "SQDUSDT"
@@ -970,132 +958,24 @@
       "name": "Bal-11",
       "branch": "sniper_lab",
       "capital": 300.0,
-      "equity": 396.8,
-      "profit_usd": 96.8,
-      "profit_pct": 32.27,
+      "equity": 343.37,
+      "profit_usd": 43.37,
+      "profit_pct": 14.46,
       "fees_usd": 0.0,
-      "trades": 4,
-      "best_sym": "TACUSDT"
+      "trades": 7,
+      "best_sym": "SQDUSDT"
     },
     {
       "id": "X08",
       "name": "Std-10",
       "branch": "sniper_lab",
       "capital": 300.0,
-      "equity": 396.18,
-      "profit_usd": 96.18,
-      "profit_pct": 32.06,
+      "equity": 342.5,
+      "profit_usd": 42.5,
+      "profit_pct": 14.17,
       "fees_usd": 0.0,
-      "trades": 4,
-      "best_sym": "TACUSDT"
-    },
-    {
-      "id": "R2",
-      "name": "Sniper-Tight-v2",
-      "branch": "kucoin_v2",
-      "capital": 300.0,
-      "equity": 302.68,
-      "profit_usd": 2.68,
-      "profit_pct": 0.89,
-      "fees_usd": 0.0,
-      "trades": 5,
-      "best_sym": "TACUSDT"
-    },
-    {
-      "id": "X02",
-      "name": "Scalp-5",
-      "branch": "sniper_lab",
-      "capital": 300.0,
-      "equity": 302.64,
-      "profit_usd": 2.64,
-      "profit_pct": 0.88,
-      "fees_usd": 0.0,
-      "trades": 5,
-      "best_sym": "TACUSDT"
-    },
-    {
-      "id": "T2",
-      "name": "Sniper-Fast-v2",
-      "branch": "kucoin_v2",
-      "capital": 300.0,
-      "equity": 300.67,
-      "profit_usd": 0.67,
-      "profit_pct": 0.22,
-      "fees_usd": 0.0,
-      "trades": 6,
-      "best_sym": "TACUSDT"
-    },
-    {
-      "id": "X01",
-      "name": "Scalp-4",
-      "branch": "sniper_lab",
-      "capital": 300.0,
-      "equity": 300.05,
-      "profit_usd": 0.05,
-      "profit_pct": 0.02,
-      "fees_usd": 0.0,
-      "trades": 5,
-      "best_sym": "TACUSDT"
-    },
-    {
-      "id": "U2",
-      "name": "Sniper-Deep-v2",
-      "branch": "kucoin_v2",
-      "capital": 300.0,
-      "equity": 300.0,
-      "profit_usd": 0.0,
-      "profit_pct": 0.0,
-      "fees_usd": 0.0,
-      "trades": 0,
-      "best_sym": "TACUSDT"
-    },
-    {
-      "id": "X12",
-      "name": "Wide-14",
-      "branch": "sniper_lab",
-      "capital": 300.0,
-      "equity": 300.0,
-      "profit_usd": 0.0,
-      "profit_pct": 0.0,
-      "fees_usd": 0.0,
-      "trades": 0,
-      "best_sym": "TACUSDT"
-    },
-    {
-      "id": "X13",
-      "name": "Deep-15",
-      "branch": "sniper_lab",
-      "capital": 300.0,
-      "equity": 300.0,
-      "profit_usd": 0.0,
-      "profit_pct": 0.0,
-      "fees_usd": 0.0,
-      "trades": 0,
-      "best_sym": "TACUSDT"
-    },
-    {
-      "id": "X14",
-      "name": "Deep-18",
-      "branch": "sniper_lab",
-      "capital": 300.0,
-      "equity": 300.0,
-      "profit_usd": 0.0,
-      "profit_pct": 0.0,
-      "fees_usd": 0.0,
-      "trades": 0,
-      "best_sym": "TACUSDT"
-    },
-    {
-      "id": "X15",
-      "name": "Deep-20",
-      "branch": "sniper_lab",
-      "capital": 300.0,
-      "equity": 300.0,
-      "profit_usd": 0.0,
-      "profit_pct": 0.0,
-      "fees_usd": 0.0,
-      "trades": 0,
-      "best_sym": "TACUSDT"
+      "trades": 7,
+      "best_sym": "SQDUSDT"
     },
     {
       "id": "X18",
@@ -1107,32 +987,152 @@
       "profit_pct": 0.0,
       "fees_usd": 0.0,
       "trades": 0,
-      "best_sym": "TACUSDT"
+      "best_sym": "ZEREBROUSDT"
+    },
+    {
+      "id": "X15",
+      "name": "Deep-20",
+      "branch": "sniper_lab",
+      "capital": 300.0,
+      "equity": 298.33,
+      "profit_usd": -1.67,
+      "profit_pct": -0.56,
+      "fees_usd": 0.0,
+      "trades": 1,
+      "best_sym": "OBTUSDT"
     },
     {
       "id": "X25",
       "name": "Runner-12",
       "branch": "sniper_lab",
       "capital": 300.0,
-      "equity": 300.0,
-      "profit_usd": 0.0,
-      "profit_pct": 0.0,
+      "equity": 298.26,
+      "profit_usd": -1.74,
+      "profit_pct": -0.58,
       "fees_usd": 0.0,
-      "trades": 0,
-      "best_sym": "TACUSDT"
+      "trades": 1,
+      "best_sym": "OBTUSDT"
+    },
+    {
+      "id": "X29",
+      "name": "Safe-12",
+      "branch": "sniper_lab",
+      "capital": 300.0,
+      "equity": 298.26,
+      "profit_usd": -1.74,
+      "profit_pct": -0.58,
+      "fees_usd": 0.0,
+      "trades": 1,
+      "best_sym": "OBTUSDT"
+    },
+    {
+      "id": "X12",
+      "name": "Wide-14",
+      "branch": "sniper_lab",
+      "capital": 300.0,
+      "equity": 298.13,
+      "profit_usd": -1.87,
+      "profit_pct": -0.62,
+      "fees_usd": 0.0,
+      "trades": 1,
+      "best_sym": "OBTUSDT"
+    },
+    {
+      "id": "X14",
+      "name": "Deep-18",
+      "branch": "sniper_lab",
+      "capital": 300.0,
+      "equity": 298.13,
+      "profit_usd": -1.87,
+      "profit_pct": -0.62,
+      "fees_usd": 0.0,
+      "trades": 1,
+      "best_sym": "OBTUSDT"
+    },
+    {
+      "id": "U2",
+      "name": "Sniper-Deep-v2",
+      "branch": "kucoin_v2",
+      "capital": 300.0,
+      "equity": 298.0,
+      "profit_usd": -2.0,
+      "profit_pct": -0.67,
+      "fees_usd": 0.0,
+      "trades": 1,
+      "best_sym": "OBTUSDT"
+    },
+    {
+      "id": "X13",
+      "name": "Deep-15",
+      "branch": "sniper_lab",
+      "capital": 300.0,
+      "equity": 298.0,
+      "profit_usd": -2.0,
+      "profit_pct": -0.67,
+      "fees_usd": 0.0,
+      "trades": 1,
+      "best_sym": "OBTUSDT"
+    },
+    {
+      "id": "X24",
+      "name": "Runner-10",
+      "branch": "sniper_lab",
+      "capital": 300.0,
+      "equity": 295.5,
+      "profit_usd": -4.5,
+      "profit_pct": -1.5,
+      "fees_usd": 0.0,
+      "trades": 4,
+      "best_sym": "OBTUSDT"
+    },
+    {
+      "id": "X28",
+      "name": "Safe-10",
+      "branch": "sniper_lab",
+      "capital": 300.0,
+      "equity": 295.51,
+      "profit_usd": -4.49,
+      "profit_pct": -1.5,
+      "fees_usd": 0.0,
+      "trades": 4,
+      "best_sym": "OBTUSDT"
+    },
+    {
+      "id": "X30",
+      "name": "Mix-11",
+      "branch": "sniper_lab",
+      "capital": 300.0,
+      "equity": 295.15,
+      "profit_usd": -4.85,
+      "profit_pct": -1.62,
+      "fees_usd": 0.0,
+      "trades": 4,
+      "best_sym": "OBTUSDT"
+    },
+    {
+      "id": "X07",
+      "name": "Std-8b",
+      "branch": "sniper_lab",
+      "capital": 300.0,
+      "equity": 294.48,
+      "profit_usd": -5.52,
+      "profit_pct": -1.84,
+      "fees_usd": 0.0,
+      "trades": 5,
+      "best_sym": "OBTUSDT"
     }
   ],
   "leader": {
-    "id": "X30",
-    "name": "Mix-11",
+    "id": "X17",
+    "name": "Vol-10",
     "branch": "sniper_lab",
     "capital": 300.0,
-    "equity": 449.85,
-    "profit_usd": 149.85,
-    "profit_pct": 49.95,
+    "equity": 441.53,
+    "profit_usd": 141.53,
+    "profit_pct": 47.18,
     "fees_usd": 0.0,
-    "trades": 1,
-    "best_sym": "TACUSDT"
+    "trades": 3,
+    "best_sym": "SQDUSDT"
   },
   "leader_other": {
     "id": "R",
@@ -1203,14 +1203,14 @@
       "v2_id": "I2",
       "v1_name": "Sniper2",
       "v2_name": "Sniper2-v2",
-      "v1_eq": 296.9417562390338,
-      "v2_eq": 297.64094961814675,
-      "v1_pnl": -1.0194145869887354,
-      "v2_pnl": -0.7863501272844171,
-      "diff_pnl": 0.23,
+      "v1_eq": 288.1108036168672,
+      "v2_eq": 292.2354153451964,
+      "v1_pnl": -3.963065461044266,
+      "v2_pnl": -2.5881948849345426,
+      "diff_pnl": 1.37,
       "winner": "I2",
-      "v1_trades": 3,
-      "v2_trades": 4
+      "v1_trades": 5,
+      "v2_trades": 7
     },
     {
       "v1_id": "U",
@@ -1218,80 +1218,80 @@
       "v1_name": "Sniper-Deep",
       "v2_name": "Sniper-Deep-v2",
       "v1_eq": 300.0,
-      "v2_eq": 300.0,
+      "v2_eq": 297.99558001484047,
       "v1_pnl": 0.0,
-      "v2_pnl": 0.0,
-      "diff_pnl": 0.0,
-      "winner": "tie",
+      "v2_pnl": -0.6681399950531764,
+      "diff_pnl": -0.67,
+      "winner": "U",
       "v1_trades": 0,
-      "v2_trades": 0
+      "v2_trades": 1
     },
     {
       "v1_id": "R",
       "v2_id": "R2",
       "v1_name": "Sniper-Tight",
       "v2_name": "Sniper-Tight-v2",
-      "v1_eq": 294.73377468783144,
-      "v2_eq": 302.67798070106625,
-      "v1_pnl": -1.7554084373895193,
-      "v2_pnl": 0.8926602336887489,
-      "diff_pnl": 2.65,
+      "v1_eq": 291.7590582324402,
+      "v2_eq": 294.0980247074773,
+      "v1_pnl": -2.7469805891865917,
+      "v2_pnl": -1.967325097507569,
+      "diff_pnl": 0.78,
       "winner": "R2",
-      "v1_trades": 3,
-      "v2_trades": 5
+      "v1_trades": 5,
+      "v2_trades": 9
     },
     {
       "v1_id": "S",
       "v2_id": "S2",
       "v1_name": "Sniper-Wide",
       "v2_name": "Sniper-Wide-v2",
-      "v1_eq": 300.7417838430371,
-      "v2_eq": 299.901,
-      "v1_pnl": 0.2472612810123754,
-      "v2_pnl": -0.03299999999999651,
-      "diff_pnl": -0.28,
+      "v1_eq": 278.7410968711841,
+      "v2_eq": 244.86303675292623,
+      "v1_pnl": -7.086301042938639,
+      "v2_pnl": -18.37898774902459,
+      "diff_pnl": -11.29,
       "winner": "S",
-      "v1_trades": 1,
-      "v2_trades": 1
+      "v1_trades": 3,
+      "v2_trades": 4
     },
     {
       "v1_id": "T",
       "v2_id": "T2",
       "v1_name": "Sniper-Fast",
       "v2_name": "Sniper-Fast-v2",
-      "v1_eq": 296.28097115177246,
-      "v2_eq": 300.67271482429277,
-      "v1_pnl": -1.2396762827425125,
-      "v2_pnl": 0.2242382747642561,
-      "diff_pnl": 1.46,
+      "v1_eq": 287.66431714153964,
+      "v2_eq": 292.2550747035326,
+      "v1_pnl": -4.111894286153453,
+      "v2_pnl": -2.581641765489129,
+      "diff_pnl": 1.53,
       "winner": "T2",
-      "v1_trades": 3,
-      "v2_trades": 6
+      "v1_trades": 9,
+      "v2_trades": 9
     },
     {
       "v1_id": "V",
       "v2_id": "V2",
       "v1_name": "Sniper-Vol",
       "v2_name": "Sniper-Vol-v2",
-      "v1_eq": 293.4697850044927,
-      "v2_eq": 293.72364280618297,
-      "v1_pnl": -2.1767383318357743,
-      "v2_pnl": -2.092119064605678,
-      "diff_pnl": 0.08,
+      "v1_eq": 289.0283069203168,
+      "v2_eq": 289.0818120770317,
+      "v1_pnl": -3.6572310265610595,
+      "v2_pnl": -3.6393959743227624,
+      "diff_pnl": 0.02,
       "winner": "V2",
       "v1_trades": 2,
-      "v2_trades": 4
+      "v2_trades": 6
     },
     {
       "v1_id": "G",
       "v2_id": "G2",
       "v1_name": "Meme",
       "v2_name": "Meme-v2",
-      "v1_eq": 300.263413457693,
-      "v2_eq": 297.97050788721816,
-      "v1_pnl": 0.08780448589766365,
-      "v2_pnl": -0.6764973709272795,
-      "diff_pnl": -0.76,
+      "v1_eq": 297.6442252522827,
+      "v2_eq": 294.3183553336299,
+      "v1_pnl": -0.7852582492391017,
+      "v2_pnl": -1.8938815554567061,
+      "diff_pnl": -1.11,
       "winner": "G",
       "v1_trades": 4,
       "v2_trades": 4
@@ -1302,215 +1302,215 @@
       "id": "I2",
       "name": "Sniper2-v2",
       "strategy": "sniper",
-      "total_eq": 297.64094961814675,
-      "total_pnl": -0.7863501272844171,
-      "trades": 4,
-      "best_sym": "IDUSDT"
+      "total_eq": 292.2354153451964,
+      "total_pnl": -2.5881948849345426,
+      "trades": 7,
+      "best_sym": "OBTUSDT"
     },
     {
       "id": "U2",
       "name": "Sniper-Deep-v2",
       "strategy": "sniper",
-      "total_eq": 300.0,
-      "total_pnl": 0.0,
-      "trades": 0,
-      "best_sym": "TACUSDT"
+      "total_eq": 297.99558001484047,
+      "total_pnl": -0.6681399950531764,
+      "trades": 1,
+      "best_sym": "OBTUSDT"
     },
     {
       "id": "R2",
       "name": "Sniper-Tight-v2",
       "strategy": "sniper",
-      "total_eq": 302.67798070106625,
-      "total_pnl": 0.8926602336887489,
-      "trades": 5,
+      "total_eq": 294.0980247074773,
+      "total_pnl": -1.967325097507569,
+      "trades": 9,
       "best_sym": "TACUSDT"
     },
     {
       "id": "S2",
       "name": "Sniper-Wide-v2",
       "strategy": "sniper",
-      "total_eq": 299.901,
-      "total_pnl": -0.03299999999999651,
-      "trades": 1,
-      "best_sym": "TACUSDT"
+      "total_eq": 244.86303675292623,
+      "total_pnl": -18.37898774902459,
+      "trades": 4,
+      "best_sym": "OBTUSDT"
     },
     {
       "id": "T2",
       "name": "Sniper-Fast-v2",
       "strategy": "sniper",
-      "total_eq": 300.67271482429277,
-      "total_pnl": 0.2242382747642561,
-      "trades": 6,
-      "best_sym": "TACUSDT"
+      "total_eq": 292.2550747035326,
+      "total_pnl": -2.581641765489129,
+      "trades": 9,
+      "best_sym": "OBTUSDT"
     },
     {
       "id": "V2",
       "name": "Sniper-Vol-v2",
       "strategy": "sniper",
-      "total_eq": 293.72364280618297,
-      "total_pnl": -2.092119064605678,
-      "trades": 4,
-      "best_sym": "SPXUSDT"
+      "total_eq": 289.0818120770317,
+      "total_pnl": -3.6393959743227624,
+      "trades": 6,
+      "best_sym": "SQDUSDT"
     },
     {
       "id": "G2",
       "name": "Meme-v2",
       "strategy": "meme",
-      "total_eq": 297.97050788721816,
-      "total_pnl": -0.6764973709272795,
+      "total_eq": 294.3183553336299,
+      "total_pnl": -1.8938815554567061,
       "trades": 4,
-      "best_sym": "SHIBUSDT"
+      "best_sym": "WIFUSDT"
     },
     {
       "id": "X01",
       "name": "Scalp-4",
       "strategy": "sniper",
-      "total_eq": 300.046490059336,
-      "total_pnl": 0.015496686445336158,
-      "trades": 5,
-      "best_sym": "TACUSDT"
+      "total_eq": 292.90826242199734,
+      "total_pnl": -2.363912526000888,
+      "trades": 6,
+      "best_sym": "OBTUSDT"
     },
     {
       "id": "X02",
       "name": "Scalp-5",
       "strategy": "sniper",
-      "total_eq": 302.6355842461288,
-      "total_pnl": 0.8785280820429382,
-      "trades": 5,
-      "best_sym": "TACUSDT"
+      "total_eq": 291.10344783181597,
+      "total_pnl": -2.9655173893946767,
+      "trades": 6,
+      "best_sym": "OBTUSDT"
     },
     {
       "id": "X03",
       "name": "Scalp-6",
       "strategy": "sniper",
-      "total_eq": 297.8585722708483,
-      "total_pnl": -0.7138092430505669,
-      "trades": 4,
-      "best_sym": "TACUSDT"
+      "total_eq": 293.1026575630594,
+      "total_pnl": -2.299114145646873,
+      "trades": 9,
+      "best_sym": "OBTUSDT"
     },
     {
       "id": "X04",
       "name": "Fast-5",
       "strategy": "sniper",
-      "total_eq": 297.4781787243593,
-      "total_pnl": -0.8406070918802395,
-      "trades": 4,
-      "best_sym": "TACUSDT"
+      "total_eq": 292.21950086366815,
+      "total_pnl": -2.593499712110618,
+      "trades": 9,
+      "best_sym": "OBTUSDT"
     },
     {
       "id": "X05",
       "name": "Fast-7",
       "strategy": "sniper",
-      "total_eq": 295.4076587337736,
-      "total_pnl": -1.5307804220754708,
-      "trades": 6,
-      "best_sym": "TACUSDT"
+      "total_eq": 291.7973073269461,
+      "total_pnl": -2.7342308910179627,
+      "trades": 9,
+      "best_sym": "OBTUSDT"
     },
     {
       "id": "X06",
       "name": "Std-8",
       "strategy": "sniper",
-      "total_eq": 297.65061911009195,
-      "total_pnl": -0.7831269633026825,
-      "trades": 4,
-      "best_sym": "TACUSDT"
+      "total_eq": 291.64217572543544,
+      "total_pnl": -2.7859414248548546,
+      "trades": 9,
+      "best_sym": "OBTUSDT"
     },
     {
       "id": "X07",
       "name": "Std-8b",
       "strategy": "sniper",
-      "total_eq": 296.53875682008197,
-      "total_pnl": -1.153747726639343,
-      "trades": 4,
-      "best_sym": "TACUSDT"
+      "total_eq": 294.4824970740309,
+      "total_pnl": -1.8391676419896992,
+      "trades": 5,
+      "best_sym": "OBTUSDT"
     },
     {
       "id": "X08",
       "name": "Std-10",
       "strategy": "sniper",
-      "total_eq": 396.17503108413797,
-      "total_pnl": 32.058343694712654,
-      "trades": 4,
-      "best_sym": "TACUSDT"
+      "total_eq": 342.5015849181824,
+      "total_pnl": 14.167194972727467,
+      "trades": 7,
+      "best_sym": "SQDUSDT"
     },
     {
       "id": "X09",
       "name": "Bal-9",
       "strategy": "sniper",
-      "total_eq": 296.6809476776783,
-      "total_pnl": -1.1063507741072272,
-      "trades": 4,
-      "best_sym": "TACUSDT"
+      "total_eq": 294.4368252342677,
+      "total_pnl": -1.854391588577433,
+      "trades": 5,
+      "best_sym": "OBTUSDT"
     },
     {
       "id": "X10",
       "name": "Bal-11",
       "strategy": "sniper",
-      "total_eq": 396.8033369421338,
-      "total_pnl": 32.26777898071126,
-      "trades": 4,
-      "best_sym": "TACUSDT"
+      "total_eq": 343.36723341735626,
+      "total_pnl": 14.455744472452087,
+      "trades": 7,
+      "best_sym": "SQDUSDT"
     },
     {
       "id": "X11",
       "name": "Wide-12",
       "strategy": "sniper",
-      "total_eq": 296.4448072102343,
-      "total_pnl": -1.1850642632552422,
-      "trades": 3,
-      "best_sym": "TACUSDT"
+      "total_eq": 290.14757145161366,
+      "total_pnl": -3.284142849462114,
+      "trades": 6,
+      "best_sym": "OBTUSDT"
     },
     {
       "id": "X12",
       "name": "Wide-14",
       "strategy": "sniper",
-      "total_eq": 300.0,
-      "total_pnl": 0.0,
-      "trades": 0,
-      "best_sym": "TACUSDT"
+      "total_eq": 298.1292080138511,
+      "total_pnl": -0.6235973287163006,
+      "trades": 1,
+      "best_sym": "OBTUSDT"
     },
     {
       "id": "X13",
       "name": "Deep-15",
       "strategy": "sniper",
-      "total_eq": 300.0,
-      "total_pnl": 0.0,
-      "trades": 0,
-      "best_sym": "TACUSDT"
+      "total_eq": 297.99558001484047,
+      "total_pnl": -0.6681399950531764,
+      "trades": 1,
+      "best_sym": "OBTUSDT"
     },
     {
       "id": "X14",
       "name": "Deep-18",
       "strategy": "sniper",
-      "total_eq": 300.0,
-      "total_pnl": 0.0,
-      "trades": 0,
-      "best_sym": "TACUSDT"
+      "total_eq": 298.1292080138511,
+      "total_pnl": -0.6235973287163006,
+      "trades": 1,
+      "best_sym": "OBTUSDT"
     },
     {
       "id": "X15",
       "name": "Deep-20",
       "strategy": "sniper",
-      "total_eq": 300.0,
-      "total_pnl": 0.0,
-      "trades": 0,
-      "best_sym": "TACUSDT"
+      "total_eq": 298.32965001236704,
+      "total_pnl": -0.5567833292109867,
+      "trades": 1,
+      "best_sym": "OBTUSDT"
     },
     {
       "id": "X16",
       "name": "Vol-9",
       "strategy": "sniper",
-      "total_eq": 294.19613557009734,
-      "total_pnl": -1.9346214766342198,
-      "trades": 4,
+      "total_eq": 292.4947233423078,
+      "total_pnl": -2.5017588858974023,
+      "trades": 5,
       "best_sym": "UNIUSDT"
     },
     {
       "id": "X17",
       "name": "Vol-10",
       "strategy": "sniper",
-      "total_eq": 442.63383233895246,
-      "total_pnl": 47.54461077965082,
+      "total_eq": 441.5316402430765,
+      "total_pnl": 47.177213414358825,
       "trades": 3,
       "best_sym": "SQDUSDT"
     },
@@ -1521,115 +1521,115 @@
       "total_eq": 300.0,
       "total_pnl": 0.0,
       "trades": 0,
-      "best_sym": "TACUSDT"
+      "best_sym": "ZEREBROUSDT"
     },
     {
       "id": "X19",
       "name": "LoVol-6",
       "strategy": "sniper",
-      "total_eq": 298.0020439736928,
-      "total_pnl": -0.6659853421023929,
-      "trades": 4,
-      "best_sym": "IDUSDT"
+      "total_eq": 292.0186398487723,
+      "total_pnl": -2.660453383742568,
+      "trades": 9,
+      "best_sym": "OBTUSDT"
     },
     {
       "id": "X20",
       "name": "LoVol-8",
       "strategy": "sniper",
-      "total_eq": 297.5859803710933,
-      "total_pnl": -0.8046732096355715,
-      "trades": 3,
-      "best_sym": "TACUSDT"
+      "total_eq": 293.8266809354967,
+      "total_pnl": -2.057773021501096,
+      "trades": 7,
+      "best_sym": "OBTUSDT"
     },
     {
       "id": "X21",
       "name": "Tight-4",
       "strategy": "sniper",
-      "total_eq": 296.97044659341344,
-      "total_pnl": -1.0098511355288526,
-      "trades": 3,
-      "best_sym": "TACUSDT"
+      "total_eq": 293.8692286544961,
+      "total_pnl": -2.0435904485012957,
+      "trades": 6,
+      "best_sym": "OBTUSDT"
     },
     {
       "id": "X22",
       "name": "Tight-6",
       "strategy": "sniper",
-      "total_eq": 145.90551333631012,
-      "total_pnl": -51.36482888789663,
-      "trades": 3,
-      "best_sym": "SQDUSDT"
+      "total_eq": 292.55372703303203,
+      "total_pnl": -2.4820909889893223,
+      "trades": 6,
+      "best_sym": "OBTUSDT"
     },
     {
       "id": "X23",
       "name": "Runner-8",
       "strategy": "sniper",
-      "total_eq": 297.26956776466955,
-      "total_pnl": -0.9101440784434848,
-      "trades": 3,
-      "best_sym": "TACUSDT"
+      "total_eq": 292.96508323724817,
+      "total_pnl": -2.344972254250611,
+      "trades": 6,
+      "best_sym": "OBTUSDT"
     },
     {
       "id": "X24",
       "name": "Runner-10",
       "strategy": "sniper",
-      "total_eq": 297.02931212433214,
-      "total_pnl": -0.9902292918892879,
-      "trades": 3,
-      "best_sym": "TACUSDT"
+      "total_eq": 295.5000561764107,
+      "total_pnl": -1.4999812745297731,
+      "trades": 4,
+      "best_sym": "OBTUSDT"
     },
     {
       "id": "X25",
       "name": "Runner-12",
       "strategy": "sniper",
-      "total_eq": 300.0,
-      "total_pnl": 0.0,
-      "trades": 0,
-      "best_sym": "TACUSDT"
+      "total_eq": 298.2628360128617,
+      "total_pnl": -0.5790546623794247,
+      "trades": 1,
+      "best_sym": "OBTUSDT"
     },
     {
       "id": "X26",
       "name": "Aggro-7",
       "strategy": "sniper",
-      "total_eq": 294.74539145613943,
-      "total_pnl": -1.7515361812868568,
-      "trades": 6,
-      "best_sym": "TACUSDT"
+      "total_eq": 290.4947379607622,
+      "total_pnl": -3.1684206797459256,
+      "trades": 9,
+      "best_sym": "OBTUSDT"
     },
     {
       "id": "X27",
       "name": "Aggro-9",
       "strategy": "sniper",
-      "total_eq": 294.44685520134163,
-      "total_pnl": -1.8510482662194552,
-      "trades": 6,
-      "best_sym": "TACUSDT"
+      "total_eq": 290.40450415656784,
+      "total_pnl": -3.1984986144773875,
+      "trades": 9,
+      "best_sym": "OBTUSDT"
     },
     {
       "id": "X28",
       "name": "Safe-10",
       "strategy": "sniper",
-      "total_eq": 297.02931212433214,
-      "total_pnl": -0.9902292918892879,
-      "trades": 3,
-      "best_sym": "TACUSDT"
+      "total_eq": 295.50927393255444,
+      "total_pnl": -1.4969086891485213,
+      "trades": 4,
+      "best_sym": "OBTUSDT"
     },
     {
       "id": "X29",
       "name": "Safe-12",
       "strategy": "sniper",
-      "total_eq": 300.0,
-      "total_pnl": 0.0,
-      "trades": 0,
-      "best_sym": "TACUSDT"
+      "total_eq": 298.2628360128618,
+      "total_pnl": -0.5790546623794057,
+      "trades": 1,
+      "best_sym": "OBTUSDT"
     },
     {
       "id": "X30",
       "name": "Mix-11",
       "strategy": "sniper",
-      "total_eq": 449.8515,
-      "total_pnl": 49.9505,
-      "trades": 1,
-      "best_sym": "TACUSDT"
+      "total_eq": 295.1482420329239,
+      "total_pnl": -1.6172526556920273,
+      "trades": 4,
+      "best_sym": "OBTUSDT"
     }
   ],
   "v2_enter_ok": true,
@@ -1640,84 +1640,28 @@
     "pick_top": 5,
     "ranked": [
       {
-        "id": "X30",
-        "name": "Mix-11",
-        "total_eq": 449.8515,
-        "total_pnl": 49.9505,
-        "trades": 1,
-        "best_sym": "TACUSDT"
-      },
-      {
         "id": "X17",
         "name": "Vol-10",
-        "total_eq": 442.63383233895246,
-        "total_pnl": 47.54461077965082,
+        "total_eq": 441.5316402430765,
+        "total_pnl": 47.177213414358825,
         "trades": 3,
         "best_sym": "SQDUSDT"
       },
       {
         "id": "X10",
         "name": "Bal-11",
-        "total_eq": 396.8033369421338,
-        "total_pnl": 32.26777898071126,
-        "trades": 4,
-        "best_sym": "TACUSDT"
+        "total_eq": 343.36723341735626,
+        "total_pnl": 14.455744472452087,
+        "trades": 7,
+        "best_sym": "SQDUSDT"
       },
       {
         "id": "X08",
         "name": "Std-10",
-        "total_eq": 396.17503108413797,
-        "total_pnl": 32.058343694712654,
-        "trades": 4,
-        "best_sym": "TACUSDT"
-      },
-      {
-        "id": "X02",
-        "name": "Scalp-5",
-        "total_eq": 302.6355842461288,
-        "total_pnl": 0.8785280820429382,
-        "trades": 5,
-        "best_sym": "TACUSDT"
-      },
-      {
-        "id": "X01",
-        "name": "Scalp-4",
-        "total_eq": 300.046490059336,
-        "total_pnl": 0.015496686445336158,
-        "trades": 5,
-        "best_sym": "TACUSDT"
-      },
-      {
-        "id": "X12",
-        "name": "Wide-14",
-        "total_eq": 300.0,
-        "total_pnl": 0.0,
-        "trades": 0,
-        "best_sym": "TACUSDT"
-      },
-      {
-        "id": "X13",
-        "name": "Deep-15",
-        "total_eq": 300.0,
-        "total_pnl": 0.0,
-        "trades": 0,
-        "best_sym": "TACUSDT"
-      },
-      {
-        "id": "X14",
-        "name": "Deep-18",
-        "total_eq": 300.0,
-        "total_pnl": 0.0,
-        "trades": 0,
-        "best_sym": "TACUSDT"
-      },
-      {
-        "id": "X15",
-        "name": "Deep-20",
-        "total_eq": 300.0,
-        "total_pnl": 0.0,
-        "trades": 0,
-        "best_sym": "TACUSDT"
+        "total_eq": 342.5015849181824,
+        "total_pnl": 14.167194972727467,
+        "trades": 7,
+        "best_sym": "SQDUSDT"
       },
       {
         "id": "X18",
@@ -1725,201 +1669,257 @@
         "total_eq": 300.0,
         "total_pnl": 0.0,
         "trades": 0,
-        "best_sym": "TACUSDT"
+        "best_sym": "ZEREBROUSDT"
       },
       {
-        "id": "X25",
-        "name": "Runner-12",
-        "total_eq": 300.0,
-        "total_pnl": 0.0,
-        "trades": 0,
-        "best_sym": "TACUSDT"
+        "id": "X15",
+        "name": "Deep-20",
+        "total_eq": 298.32965001236704,
+        "total_pnl": -0.5567833292109867,
+        "trades": 1,
+        "best_sym": "OBTUSDT"
       },
       {
         "id": "X29",
         "name": "Safe-12",
-        "total_eq": 300.0,
-        "total_pnl": 0.0,
-        "trades": 0,
-        "best_sym": "TACUSDT"
+        "total_eq": 298.2628360128618,
+        "total_pnl": -0.5790546623794057,
+        "trades": 1,
+        "best_sym": "OBTUSDT"
       },
       {
-        "id": "X19",
-        "name": "LoVol-6",
-        "total_eq": 298.0020439736928,
-        "total_pnl": -0.6659853421023929,
-        "trades": 4,
-        "best_sym": "IDUSDT"
+        "id": "X25",
+        "name": "Runner-12",
+        "total_eq": 298.2628360128617,
+        "total_pnl": -0.5790546623794247,
+        "trades": 1,
+        "best_sym": "OBTUSDT"
       },
       {
-        "id": "X03",
-        "name": "Scalp-6",
-        "total_eq": 297.8585722708483,
-        "total_pnl": -0.7138092430505669,
-        "trades": 4,
-        "best_sym": "TACUSDT"
+        "id": "X12",
+        "name": "Wide-14",
+        "total_eq": 298.1292080138511,
+        "total_pnl": -0.6235973287163006,
+        "trades": 1,
+        "best_sym": "OBTUSDT"
       },
       {
-        "id": "X06",
-        "name": "Std-8",
-        "total_eq": 297.65061911009195,
-        "total_pnl": -0.7831269633026825,
-        "trades": 4,
-        "best_sym": "TACUSDT"
+        "id": "X14",
+        "name": "Deep-18",
+        "total_eq": 298.1292080138511,
+        "total_pnl": -0.6235973287163006,
+        "trades": 1,
+        "best_sym": "OBTUSDT"
       },
       {
-        "id": "X20",
-        "name": "LoVol-8",
-        "total_eq": 297.5859803710933,
-        "total_pnl": -0.8046732096355715,
-        "trades": 3,
-        "best_sym": "TACUSDT"
-      },
-      {
-        "id": "X04",
-        "name": "Fast-5",
-        "total_eq": 297.4781787243593,
-        "total_pnl": -0.8406070918802395,
-        "trades": 4,
-        "best_sym": "TACUSDT"
-      },
-      {
-        "id": "X23",
-        "name": "Runner-8",
-        "total_eq": 297.26956776466955,
-        "total_pnl": -0.9101440784434848,
-        "trades": 3,
-        "best_sym": "TACUSDT"
-      },
-      {
-        "id": "X24",
-        "name": "Runner-10",
-        "total_eq": 297.02931212433214,
-        "total_pnl": -0.9902292918892879,
-        "trades": 3,
-        "best_sym": "TACUSDT"
+        "id": "X13",
+        "name": "Deep-15",
+        "total_eq": 297.99558001484047,
+        "total_pnl": -0.6681399950531764,
+        "trades": 1,
+        "best_sym": "OBTUSDT"
       },
       {
         "id": "X28",
         "name": "Safe-10",
-        "total_eq": 297.02931212433214,
-        "total_pnl": -0.9902292918892879,
-        "trades": 3,
-        "best_sym": "TACUSDT"
-      },
-      {
-        "id": "X21",
-        "name": "Tight-4",
-        "total_eq": 296.97044659341344,
-        "total_pnl": -1.0098511355288526,
-        "trades": 3,
-        "best_sym": "TACUSDT"
-      },
-      {
-        "id": "X09",
-        "name": "Bal-9",
-        "total_eq": 296.6809476776783,
-        "total_pnl": -1.1063507741072272,
+        "total_eq": 295.50927393255444,
+        "total_pnl": -1.4969086891485213,
         "trades": 4,
-        "best_sym": "TACUSDT"
+        "best_sym": "OBTUSDT"
+      },
+      {
+        "id": "X24",
+        "name": "Runner-10",
+        "total_eq": 295.5000561764107,
+        "total_pnl": -1.4999812745297731,
+        "trades": 4,
+        "best_sym": "OBTUSDT"
+      },
+      {
+        "id": "X30",
+        "name": "Mix-11",
+        "total_eq": 295.1482420329239,
+        "total_pnl": -1.6172526556920273,
+        "trades": 4,
+        "best_sym": "OBTUSDT"
       },
       {
         "id": "X07",
         "name": "Std-8b",
-        "total_eq": 296.53875682008197,
-        "total_pnl": -1.153747726639343,
-        "trades": 4,
-        "best_sym": "TACUSDT"
+        "total_eq": 294.4824970740309,
+        "total_pnl": -1.8391676419896992,
+        "trades": 5,
+        "best_sym": "OBTUSDT"
       },
       {
-        "id": "X11",
-        "name": "Wide-12",
-        "total_eq": 296.4448072102343,
-        "total_pnl": -1.1850642632552422,
-        "trades": 3,
-        "best_sym": "TACUSDT"
+        "id": "X09",
+        "name": "Bal-9",
+        "total_eq": 294.4368252342677,
+        "total_pnl": -1.854391588577433,
+        "trades": 5,
+        "best_sym": "OBTUSDT"
       },
       {
-        "id": "X05",
-        "name": "Fast-7",
-        "total_eq": 295.4076587337736,
-        "total_pnl": -1.5307804220754708,
+        "id": "X21",
+        "name": "Tight-4",
+        "total_eq": 293.8692286544961,
+        "total_pnl": -2.0435904485012957,
         "trades": 6,
-        "best_sym": "TACUSDT"
+        "best_sym": "OBTUSDT"
       },
       {
-        "id": "X26",
-        "name": "Aggro-7",
-        "total_eq": 294.74539145613943,
-        "total_pnl": -1.7515361812868568,
+        "id": "X20",
+        "name": "LoVol-8",
+        "total_eq": 293.8266809354967,
+        "total_pnl": -2.057773021501096,
+        "trades": 7,
+        "best_sym": "OBTUSDT"
+      },
+      {
+        "id": "X03",
+        "name": "Scalp-6",
+        "total_eq": 293.1026575630594,
+        "total_pnl": -2.299114145646873,
+        "trades": 9,
+        "best_sym": "OBTUSDT"
+      },
+      {
+        "id": "X23",
+        "name": "Runner-8",
+        "total_eq": 292.96508323724817,
+        "total_pnl": -2.344972254250611,
         "trades": 6,
-        "best_sym": "TACUSDT"
+        "best_sym": "OBTUSDT"
       },
       {
-        "id": "X27",
-        "name": "Aggro-9",
-        "total_eq": 294.44685520134163,
-        "total_pnl": -1.8510482662194552,
+        "id": "X01",
+        "name": "Scalp-4",
+        "total_eq": 292.90826242199734,
+        "total_pnl": -2.363912526000888,
         "trades": 6,
-        "best_sym": "TACUSDT"
-      },
-      {
-        "id": "X16",
-        "name": "Vol-9",
-        "total_eq": 294.19613557009734,
-        "total_pnl": -1.9346214766342198,
-        "trades": 4,
-        "best_sym": "UNIUSDT"
+        "best_sym": "OBTUSDT"
       },
       {
         "id": "X22",
         "name": "Tight-6",
-        "total_eq": 145.90551333631012,
-        "total_pnl": -51.36482888789663,
-        "trades": 3,
-        "best_sym": "SQDUSDT"
+        "total_eq": 292.55372703303203,
+        "total_pnl": -2.4820909889893223,
+        "trades": 6,
+        "best_sym": "OBTUSDT"
+      },
+      {
+        "id": "X16",
+        "name": "Vol-9",
+        "total_eq": 292.4947233423078,
+        "total_pnl": -2.5017588858974023,
+        "trades": 5,
+        "best_sym": "UNIUSDT"
+      },
+      {
+        "id": "X04",
+        "name": "Fast-5",
+        "total_eq": 292.21950086366815,
+        "total_pnl": -2.593499712110618,
+        "trades": 9,
+        "best_sym": "OBTUSDT"
+      },
+      {
+        "id": "X19",
+        "name": "LoVol-6",
+        "total_eq": 292.0186398487723,
+        "total_pnl": -2.660453383742568,
+        "trades": 9,
+        "best_sym": "OBTUSDT"
+      },
+      {
+        "id": "X05",
+        "name": "Fast-7",
+        "total_eq": 291.7973073269461,
+        "total_pnl": -2.7342308910179627,
+        "trades": 9,
+        "best_sym": "OBTUSDT"
+      },
+      {
+        "id": "X06",
+        "name": "Std-8",
+        "total_eq": 291.64217572543544,
+        "total_pnl": -2.7859414248548546,
+        "trades": 9,
+        "best_sym": "OBTUSDT"
+      },
+      {
+        "id": "X02",
+        "name": "Scalp-5",
+        "total_eq": 291.10344783181597,
+        "total_pnl": -2.9655173893946767,
+        "trades": 6,
+        "best_sym": "OBTUSDT"
+      },
+      {
+        "id": "X26",
+        "name": "Aggro-7",
+        "total_eq": 290.4947379607622,
+        "total_pnl": -3.1684206797459256,
+        "trades": 9,
+        "best_sym": "OBTUSDT"
+      },
+      {
+        "id": "X27",
+        "name": "Aggro-9",
+        "total_eq": 290.40450415656784,
+        "total_pnl": -3.1984986144773875,
+        "trades": 9,
+        "best_sym": "OBTUSDT"
+      },
+      {
+        "id": "X11",
+        "name": "Wide-12",
+        "total_eq": 290.14757145161366,
+        "total_pnl": -3.284142849462114,
+        "trades": 6,
+        "best_sym": "OBTUSDT"
       }
     ],
     "top5": [
       {
-        "id": "X30",
-        "name": "Mix-11",
-        "total_eq": 449.8515,
-        "total_pnl": 49.9505,
-        "trades": 1,
-        "best_sym": "TACUSDT"
-      },
-      {
         "id": "X17",
         "name": "Vol-10",
-        "total_eq": 442.63383233895246,
-        "total_pnl": 47.54461077965082,
+        "total_eq": 441.5316402430765,
+        "total_pnl": 47.177213414358825,
         "trades": 3,
         "best_sym": "SQDUSDT"
       },
       {
         "id": "X10",
         "name": "Bal-11",
-        "total_eq": 396.8033369421338,
-        "total_pnl": 32.26777898071126,
-        "trades": 4,
-        "best_sym": "TACUSDT"
+        "total_eq": 343.36723341735626,
+        "total_pnl": 14.455744472452087,
+        "trades": 7,
+        "best_sym": "SQDUSDT"
       },
       {
         "id": "X08",
         "name": "Std-10",
-        "total_eq": 396.17503108413797,
-        "total_pnl": 32.058343694712654,
-        "trades": 4,
-        "best_sym": "TACUSDT"
+        "total_eq": 342.5015849181824,
+        "total_pnl": 14.167194972727467,
+        "trades": 7,
+        "best_sym": "SQDUSDT"
       },
       {
-        "id": "X02",
-        "name": "Scalp-5",
-        "total_eq": 302.6355842461288,
-        "total_pnl": 0.8785280820429382,
-        "trades": 5,
-        "best_sym": "TACUSDT"
+        "id": "X18",
+        "name": "Vol-12",
+        "total_eq": 300.0,
+        "total_pnl": 0.0,
+        "trades": 0,
+        "best_sym": "ZEREBROUSDT"
+      },
+      {
+        "id": "X15",
+        "name": "Deep-20",
+        "total_eq": 298.32965001236704,
+        "total_pnl": -0.5567833292109867,
+        "trades": 1,
+        "best_sym": "OBTUSDT"
       }
     ]
   },
@@ -2132,7 +2132,17 @@
         "branch": "fut_v2",
         "risk": "extreme",
         "exchange": "KuCoin",
-        "note": "perp KC + плечо ×2–5"
+        "status": "paused",
+        "note": "⏸ perp KC — не в плане"
+      },
+      {
+        "id": "listing_sniper",
+        "name": "Listing Sniper L2",
+        "branch": "listing",
+        "risk": "extreme",
+        "exchange": "KuCoin",
+        "status": "paused",
+        "note": "⏸ whitelist листингов — потом"
       },
       {
         "id": "flip",
@@ -2215,7 +2225,17 @@
       "branch": "fut_v2",
       "risk": "extreme",
       "exchange": "KuCoin",
-      "note": "perp KC + плечо ×2–5"
+      "status": "paused",
+      "note": "⏸ perp KC — не в плане"
+    },
+    "listing": {
+      "id": "listing_sniper",
+      "name": "Listing Sniper L2",
+      "branch": "listing",
+      "risk": "extreme",
+      "exchange": "KuCoin",
+      "status": "paused",
+      "note": "⏸ whitelist листингов — потом"
     },
     "flip": {
       "id": "flip",
@@ -2250,35 +2270,35 @@
       "note": "реальные USDT, выкл"
     }
   },
-  "v2_fee": "taker 0.10% + slippage 0.20%",
+  "v2_fee": "paper = live KC: taker 0.10% + slip/spread на каждую сделку",
   "winners_n": 8,
   "losers_n": 21,
   "fear_greed": {
-    "value": 22,
+    "value": 15,
     "label": "Extreme Fear"
   },
   "smartflow": [
     {
-      "symbol": "ZAMAUSDT",
-      "price": 0.03654,
-      "volume_usd": 1525904.008548,
-      "change_pct": 10.39,
-      "tag": "CoinGecko trending",
-      "source": "cg"
-    },
-    {
-      "symbol": "UNIUSDT",
-      "price": 3.278,
-      "volume_usd": 12155437.96548,
-      "change_pct": 8.4,
+      "symbol": "AEROUSDT",
+      "price": 0.4599,
+      "volume_usd": 11235665.898076,
+      "change_pct": -6.8500000000000005,
       "tag": "CoinGecko trending",
       "source": "cg"
     },
     {
       "symbol": "HYPEUSDT",
-      "price": 70.48,
-      "volume_usd": 120744078.88475,
-      "change_pct": -6.97,
+      "price": 69.52,
+      "volume_usd": 122711028.77028,
+      "change_pct": -3.71,
+      "tag": "CoinGecko trending",
+      "source": "cg"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 63766.3,
+      "volume_usd": 1040833549.8596057,
+      "change_pct": -2.08,
       "tag": "CoinGecko trending",
       "source": "cg"
     }
@@ -2411,28 +2431,16 @@
     "capital": 300,
     "exchange": "kucoin",
     "note": "недельный спринт · KuCoin paper + fee 0.1% + slip 0.2% · только KuCoin v2",
-    "updated": "18.06.2026 00:48 UTC",
+    "updated": "18.06.2026 14:54 UTC",
     "leaders": [
-      {
-        "id": "X30",
-        "name": "Mix-11",
-        "branch": "sniper_lab",
-        "capital": 300.0,
-        "equity": 449.85,
-        "profit_usd": 149.85,
-        "profit_pct": 49.95,
-        "fees_usd": 0.0,
-        "trades": 1,
-        "best_sym": "TACUSDT"
-      },
       {
         "id": "X17",
         "name": "Vol-10",
         "branch": "sniper_lab",
         "capital": 300.0,
-        "equity": 442.63,
-        "profit_usd": 142.63,
-        "profit_pct": 47.54,
+        "equity": 441.53,
+        "profit_usd": 141.53,
+        "profit_pct": 47.18,
         "fees_usd": 0.0,
         "trades": 3,
         "best_sym": "SQDUSDT"
@@ -2442,103 +2450,115 @@
         "name": "Bal-11",
         "branch": "sniper_lab",
         "capital": 300.0,
-        "equity": 396.8,
-        "profit_usd": 96.8,
-        "profit_pct": 32.27,
+        "equity": 343.37,
+        "profit_usd": 43.37,
+        "profit_pct": 14.46,
         "fees_usd": 0.0,
-        "trades": 4,
-        "best_sym": "TACUSDT"
+        "trades": 7,
+        "best_sym": "SQDUSDT"
       },
       {
         "id": "X08",
         "name": "Std-10",
         "branch": "sniper_lab",
         "capital": 300.0,
-        "equity": 396.18,
-        "profit_usd": 96.18,
-        "profit_pct": 32.06,
+        "equity": 342.5,
+        "profit_usd": 42.5,
+        "profit_pct": 14.17,
         "fees_usd": 0.0,
-        "trades": 4,
-        "best_sym": "TACUSDT"
+        "trades": 7,
+        "best_sym": "SQDUSDT"
       },
       {
-        "id": "R2",
-        "name": "Sniper-Tight-v2",
-        "branch": "kucoin_v2",
-        "capital": 300.0,
-        "equity": 302.68,
-        "profit_usd": 2.68,
-        "profit_pct": 0.89,
-        "fees_usd": 0.0,
-        "trades": 5,
-        "best_sym": "TACUSDT"
-      },
-      {
-        "id": "X02",
-        "name": "Scalp-5",
+        "id": "X18",
+        "name": "Vol-12",
         "branch": "sniper_lab",
-        "capital": 300.0,
-        "equity": 302.64,
-        "profit_usd": 2.64,
-        "profit_pct": 0.88,
-        "fees_usd": 0.0,
-        "trades": 5,
-        "best_sym": "TACUSDT"
-      },
-      {
-        "id": "T2",
-        "name": "Sniper-Fast-v2",
-        "branch": "kucoin_v2",
-        "capital": 300.0,
-        "equity": 300.67,
-        "profit_usd": 0.67,
-        "profit_pct": 0.22,
-        "fees_usd": 0.0,
-        "trades": 6,
-        "best_sym": "TACUSDT"
-      },
-      {
-        "id": "X01",
-        "name": "Scalp-4",
-        "branch": "sniper_lab",
-        "capital": 300.0,
-        "equity": 300.05,
-        "profit_usd": 0.05,
-        "profit_pct": 0.02,
-        "fees_usd": 0.0,
-        "trades": 5,
-        "best_sym": "TACUSDT"
-      },
-      {
-        "id": "U2",
-        "name": "Sniper-Deep-v2",
-        "branch": "kucoin_v2",
         "capital": 300.0,
         "equity": 300.0,
         "profit_usd": 0.0,
         "profit_pct": 0.0,
         "fees_usd": 0.0,
         "trades": 0,
-        "best_sym": "TACUSDT"
+        "best_sym": "ZEREBROUSDT"
+      },
+      {
+        "id": "X15",
+        "name": "Deep-20",
+        "branch": "sniper_lab",
+        "capital": 300.0,
+        "equity": 298.33,
+        "profit_usd": -1.67,
+        "profit_pct": -0.56,
+        "fees_usd": 0.0,
+        "trades": 1,
+        "best_sym": "OBTUSDT"
+      },
+      {
+        "id": "X25",
+        "name": "Runner-12",
+        "branch": "sniper_lab",
+        "capital": 300.0,
+        "equity": 298.26,
+        "profit_usd": -1.74,
+        "profit_pct": -0.58,
+        "fees_usd": 0.0,
+        "trades": 1,
+        "best_sym": "OBTUSDT"
+      },
+      {
+        "id": "X29",
+        "name": "Safe-12",
+        "branch": "sniper_lab",
+        "capital": 300.0,
+        "equity": 298.26,
+        "profit_usd": -1.74,
+        "profit_pct": -0.58,
+        "fees_usd": 0.0,
+        "trades": 1,
+        "best_sym": "OBTUSDT"
       },
       {
         "id": "X12",
         "name": "Wide-14",
         "branch": "sniper_lab",
         "capital": 300.0,
-        "equity": 300.0,
-        "profit_usd": 0.0,
-        "profit_pct": 0.0,
+        "equity": 298.13,
+        "profit_usd": -1.87,
+        "profit_pct": -0.62,
         "fees_usd": 0.0,
-        "trades": 0,
-        "best_sym": "TACUSDT"
+        "trades": 1,
+        "best_sym": "OBTUSDT"
+      },
+      {
+        "id": "X14",
+        "name": "Deep-18",
+        "branch": "sniper_lab",
+        "capital": 300.0,
+        "equity": 298.13,
+        "profit_usd": -1.87,
+        "profit_pct": -0.62,
+        "fees_usd": 0.0,
+        "trades": 1,
+        "best_sym": "OBTUSDT"
+      },
+      {
+        "id": "U2",
+        "name": "Sniper-Deep-v2",
+        "branch": "kucoin_v2",
+        "capital": 300.0,
+        "equity": 298.0,
+        "profit_usd": -2.0,
+        "profit_pct": -0.67,
+        "fees_usd": 0.0,
+        "trades": 1,
+        "best_sym": "OBTUSDT"
       }
     ],
     "totals": {
       "capital": 11100,
-      "equity": 11371.99,
-      "profit": 271.99,
-      "pct": 2.45,
+      "equity": 11077.99,
+      "profit": -22.01,
+      "pct": -0.2,
       "bots": 37
     }
   }
