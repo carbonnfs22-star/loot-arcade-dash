@@ -1,5 +1,5 @@
 {
-  "updated": "18.06.2026 01:53 UTC",
+  "updated": "18.06.2026 02:00 UTC",
   "next_hint": "обновление каждый час",
   "paper_equity": 11699.62,
   "paper_capital": 11700.0,
@@ -10,36 +10,36 @@
   "kucoin_scan": [
     {
       "symbol": "OUSDT",
-      "price": 0.63798,
-      "change_pct": 537.98,
-      "tag": "KC pump −9.5% от хая",
+      "price": 0.63665,
+      "change_pct": 536.65,
+      "tag": "KC pump −9.7% от хая",
       "fee_pct": 0.1,
       "slip_pct": 0.2,
-      "buy_net": 0.639894,
-      "tp_net": 0.731476,
-      "sl_net": 0.597902
+      "buy_net": 0.63856,
+      "tp_net": 0.729951,
+      "sl_net": 0.596656
     },
     {
       "symbol": "DNUSDT",
-      "price": 0.68318,
+      "price": 0.68762,
       "change_pct": 20.54,
-      "tag": "KC pump −10.0% от хая",
+      "tag": "KC pump −9.4% от хая",
       "fee_pct": 0.1,
       "slip_pct": 0.2,
-      "buy_net": 0.68523,
-      "tp_net": 0.7833,
-      "sl_net": 0.640263
+      "buy_net": 0.689683,
+      "tp_net": 0.788391,
+      "sl_net": 0.644424
     },
     {
       "symbol": "XPLUSDT",
-      "price": 0.1086,
-      "change_pct": 16.02,
-      "tag": "KC pump −9.1% от хая",
+      "price": 0.109,
+      "change_pct": 16.7,
+      "tag": "KC pump −8.8% от хая",
       "fee_pct": 0.1,
       "slip_pct": 0.2,
-      "buy_net": 0.108926,
-      "tp_net": 0.124515,
-      "sl_net": 0.101778
+      "buy_net": 0.109327,
+      "tp_net": 0.124974,
+      "sl_net": 0.102153
     }
   ],
   "market_v2": {
