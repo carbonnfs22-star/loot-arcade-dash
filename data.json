@@ -1,10 +1,10 @@
 {
-  "updated": "09.07.2026 08:21 UTC",
+  "updated": "09.07.2026 09:45 UTC",
   "next_hint": "все результаты здесь · данные 30мин · сайт 6ч · $200 неделя 23–30.06",
-  "paper_equity": 11372.94,
+  "paper_equity": 11277.19,
   "paper_capital": 11700.0,
-  "paper_profit": -327.06,
-  "paper_pnl_pct": -2.8,
+  "paper_profit": -422.81,
+  "paper_pnl_pct": -3.61,
   "real_usdt": 0.0,
   "kucoin_ok": true,
   "kucoin_scan": [
@@ -69,11 +69,22 @@
       "name": "Perp-Sniper",
       "branch": "futures",
       "capital": 300.0,
-      "equity": 477.94,
-      "profit_usd": 177.94,
-      "profit_pct": 59.31,
-      "fees_usd": 5.42,
-      "trades": 14
+      "equity": 486.45,
+      "profit_usd": 186.45,
+      "profit_pct": 62.15,
+      "fees_usd": 5.92,
+      "trades": 15
+    },
+    {
+      "id": "Z",
+      "name": "Mom-Perp",
+      "branch": "futures",
+      "capital": 300.0,
+      "equity": 432.5,
+      "profit_usd": 132.5,
+      "profit_pct": 44.17,
+      "fees_usd": 7.73,
+      "trades": 17
     },
     {
       "id": "R",
@@ -87,70 +98,59 @@
       "trades": 49
     },
     {
-      "id": "Z",
-      "name": "Mom-Perp",
-      "branch": "futures",
-      "capital": 300.0,
-      "equity": 416.2,
-      "profit_usd": 116.2,
-      "profit_pct": 38.73,
-      "fees_usd": 7.73,
-      "trades": 17
-    },
-    {
       "id": "O",
       "name": "Cross-market",
       "branch": "flip",
       "capital": 300.0,
-      "equity": 371.97,
-      "profit_usd": 71.97,
-      "profit_pct": 23.99,
-      "fees_usd": 99.64,
-      "trades": 52
+      "equity": 375.22,
+      "profit_usd": 75.22,
+      "profit_pct": 25.07,
+      "fees_usd": 104.71,
+      "trades": 54
     },
     {
       "id": "T",
       "name": "Fast-flip",
       "branch": "flip",
       "capital": 300.0,
-      "equity": 369.37,
-      "profit_usd": 69.37,
-      "profit_pct": 23.12,
-      "fees_usd": 98.11,
-      "trades": 52
+      "equity": 371.67,
+      "profit_usd": 71.67,
+      "profit_pct": 23.89,
+      "fees_usd": 102.79,
+      "trades": 54
     },
     {
       "id": "Q",
       "name": "Top-ups",
       "branch": "flip",
       "capital": 300.0,
-      "equity": 365.63,
-      "profit_usd": 65.63,
-      "profit_pct": 21.88,
-      "fees_usd": 102.13,
-      "trades": 53
-    },
-    {
-      "id": "Y",
-      "name": "Fund-Short",
-      "branch": "futures",
-      "capital": 300.0,
-      "equity": 347.7,
-      "profit_usd": 47.7,
-      "profit_pct": 15.9,
-      "fees_usd": 2.46,
-      "trades": 10
+      "equity": 368.84,
+      "profit_usd": 68.84,
+      "profit_pct": 22.95,
+      "fees_usd": 103.53,
+      "trades": 54
     },
     {
       "id": "V",
       "name": "Sniper-Vol",
       "branch": "sniper2",
       "capital": 300.0,
-      "equity": 346.99,
-      "profit_usd": 46.99,
-      "profit_pct": 15.66,
-      "fees_usd": 0.1,
-      "trades": 21
+      "equity": 346.43,
+      "profit_usd": 46.43,
+      "profit_pct": 15.48,
+      "fees_usd": 0.14,
+      "trades": 23
+    },
+    {
+      "id": "Y",
+      "name": "Fund-Short",
+      "branch": "futures",
+      "capital": 300.0,
+      "equity": 345.21,
+      "profit_usd": 45.21,
+      "profit_pct": 15.07,
+      "fees_usd": 2.46,
+      "trades": 10
     },
     {
       "id": "M",
@@ -164,70 +164,59 @@
       "trades": 44
     },
     {
-      "id": "U",
-      "name": "Sniper-Deep",
-      "branch": "sniper2",
-      "capital": 300.0,
-      "equity": 323.49,
-      "profit_usd": 23.49,
-      "profit_pct": 7.83,
-      "fees_usd": 0.07,
-      "trades": 25
-    },
-    {
       "id": "S",
       "name": "Subs",
       "branch": "flip",
       "capital": 300.0,
-      "equity": 323.09,
-      "profit_usd": 23.09,
-      "profit_pct": 7.7,
-      "fees_usd": 41.33,
-      "trades": 25
+      "equity": 324.39,
+      "profit_usd": 24.39,
+      "profit_pct": 8.13,
+      "fees_usd": 43.01,
+      "trades": 26
     },
     {
-      "id": "F",
-      "name": "Sniper",
-      "branch": "spot",
+      "id": "U",
+      "name": "Sniper-Deep",
+      "branch": "sniper2",
       "capital": 300.0,
-      "equity": 320.71,
-      "profit_usd": 20.71,
-      "profit_pct": 6.9,
-      "fees_usd": 1.41,
-      "trades": 31
+      "equity": 323.79,
+      "profit_usd": 23.79,
+      "profit_pct": 7.93,
+      "fees_usd": 0.09,
+      "trades": 27
     },
     {
       "id": "I",
       "name": "Sniper2",
       "branch": "spot",
       "capital": 300.0,
-      "equity": 318.79,
-      "profit_usd": 18.79,
-      "profit_pct": 6.26,
-      "fees_usd": 1.42,
-      "trades": 32
+      "equity": 319.17,
+      "profit_usd": 19.17,
+      "profit_pct": 6.39,
+      "fees_usd": 1.45,
+      "trades": 34
     },
     {
       "id": "R",
       "name": "Sniper-Tight",
       "branch": "sniper2",
       "capital": 300.0,
-      "equity": 317.17,
-      "profit_usd": 17.17,
-      "profit_pct": 5.72,
-      "fees_usd": 0.09,
-      "trades": 38
+      "equity": 316.64,
+      "profit_usd": 16.64,
+      "profit_pct": 5.55,
+      "fees_usd": 0.11,
+      "trades": 42
     },
     {
       "id": "T",
       "name": "Sniper-Fast",
       "branch": "sniper2",
       "capital": 300.0,
-      "equity": 308.15,
-      "profit_usd": 8.15,
-      "profit_pct": 2.72,
-      "fees_usd": 0.07,
-      "trades": 67
+      "equity": 307.66,
+      "profit_usd": 7.66,
+      "profit_pct": 2.55,
+      "fees_usd": 0.12,
+      "trades": 71
     },
     {
       "id": "P",
@@ -256,9 +245,9 @@
       "name": "MeanRev",
       "branch": "spot",
       "capital": 300.0,
-      "equity": 305.04,
-      "profit_usd": 5.04,
-      "profit_pct": 1.68,
+      "equity": 304.75,
+      "profit_usd": 4.75,
+      "profit_pct": 1.58,
       "fees_usd": 0.04,
       "trades": 22
     },
@@ -267,22 +256,11 @@
       "name": "MeanRev",
       "branch": "spot",
       "capital": 300.0,
-      "equity": 303.21,
-      "profit_usd": 3.21,
-      "profit_pct": 1.07,
+      "equity": 302.89,
+      "profit_usd": 2.89,
+      "profit_pct": 0.96,
       "fees_usd": 0.04,
       "trades": 16
-    },
-    {
-      "id": "B",
-      "name": "Funding",
-      "branch": "spot",
-      "capital": 300.0,
-      "equity": 300.22,
-      "profit_usd": 0.22,
-      "profit_pct": 0.07,
-      "fees_usd": 0.0,
-      "trades": 236
     },
     {
       "id": "OP6",
@@ -300,22 +278,33 @@
       "name": "Basis-Carry",
       "branch": "opus",
       "capital": 300.0,
-      "equity": 299.8,
-      "profit_usd": -0.2,
-      "profit_pct": -0.07,
+      "equity": 299.81,
+      "profit_usd": -0.19,
+      "profit_pct": -0.06,
       "fees_usd": 0.34,
-      "trades": 139
+      "trades": 141
     },
     {
       "id": "OP1",
       "name": "Delta-Funding",
       "branch": "opus",
       "capital": 300.0,
-      "equity": 299.12,
-      "profit_usd": -0.88,
+      "equity": 299.14,
+      "profit_usd": -0.86,
       "profit_pct": -0.29,
       "fees_usd": 1.72,
-      "trades": 141
+      "trades": 143
+    },
+    {
+      "id": "F",
+      "name": "Sniper",
+      "branch": "spot",
+      "capital": 300.0,
+      "equity": 299.09,
+      "profit_usd": -0.91,
+      "profit_pct": -0.3,
+      "fees_usd": 1.42,
+      "trades": 19
     },
     {
       "id": "OP3",
@@ -333,20 +322,20 @@
       "name": "Funding",
       "branch": "loot",
       "capital": 300.0,
-      "equity": 298.12,
-      "profit_usd": -1.88,
-      "profit_pct": -0.63,
+      "equity": 298.14,
+      "profit_usd": -1.86,
+      "profit_pct": -0.62,
       "fees_usd": 2.74,
-      "trades": 87
+      "trades": 89
     },
     {
       "id": "D",
       "name": "MeanRev2",
       "branch": "spot",
       "capital": 300.0,
-      "equity": 296.56,
-      "profit_usd": -3.44,
-      "profit_pct": -1.15,
+      "equity": 296.26,
+      "profit_usd": -3.74,
+      "profit_pct": -1.25,
       "fees_usd": 0.04,
       "trades": 18
     },
@@ -355,42 +344,42 @@
       "name": "Funding-Extreme",
       "branch": "opus",
       "capital": 300.0,
-      "equity": 296.01,
-      "profit_usd": -3.99,
+      "equity": 296.02,
+      "profit_usd": -3.98,
       "profit_pct": -1.33,
       "fees_usd": 5.81,
-      "trades": 147
+      "trades": 149
     },
     {
       "id": "OP8",
       "name": "BTC Trend-DCA",
       "branch": "opus",
       "capital": 300.0,
-      "equity": 295.35,
-      "profit_usd": -4.65,
-      "profit_pct": -1.55,
-      "fees_usd": 3.89,
-      "trades": 44
+      "equity": 294.9,
+      "profit_usd": -5.1,
+      "profit_pct": -1.7,
+      "fees_usd": 3.99,
+      "trades": 46
     },
     {
       "id": "OP7",
       "name": "Major Breakout",
       "branch": "opus",
       "capital": 300.0,
-      "equity": 292.94,
-      "profit_usd": -7.06,
-      "profit_pct": -2.35,
+      "equity": 292.32,
+      "profit_usd": -7.68,
+      "profit_pct": -2.56,
       "fees_usd": 2.23,
-      "trades": 17
+      "trades": 18
     },
     {
       "id": "G",
       "name": "Meme",
       "branch": "spot",
       "capital": 300.0,
-      "equity": 291.51,
-      "profit_usd": -8.49,
-      "profit_pct": -2.83,
+      "equity": 291.14,
+      "profit_usd": -8.86,
+      "profit_pct": -2.95,
       "fees_usd": 0.24,
       "trades": 87
     },
@@ -399,9 +388,9 @@
       "name": "Meme2",
       "branch": "spot",
       "capital": 300.0,
-      "equity": 290.2,
-      "profit_usd": -9.8,
-      "profit_pct": -3.27,
+      "equity": 289.81,
+      "profit_usd": -10.19,
+      "profit_pct": -3.4,
       "fees_usd": 0.13,
       "trades": 107
     },
@@ -410,22 +399,33 @@
       "name": "SmartFlow",
       "branch": "spot",
       "capital": 300.0,
-      "equity": 272.63,
-      "profit_usd": -27.37,
-      "profit_pct": -9.12,
+      "equity": 272.22,
+      "profit_usd": -27.78,
+      "profit_pct": -9.26,
       "fees_usd": 0.12,
-      "trades": 61
+      "trades": 63
     },
     {
       "id": "H",
       "name": "Whale",
       "branch": "spot",
       "capital": 300.0,
-      "equity": 267.4,
-      "profit_usd": -32.6,
-      "profit_pct": -10.87,
-      "fees_usd": 0.14,
-      "trades": 66
+      "equity": 267.0,
+      "profit_usd": -33.0,
+      "profit_pct": -11.0,
+      "fees_usd": 0.15,
+      "trades": 68
+    },
+    {
+      "id": "B",
+      "name": "Funding",
+      "branch": "spot",
+      "capital": 300.0,
+      "equity": 200.08,
+      "profit_usd": -99.92,
+      "profit_pct": -33.31,
+      "fees_usd": 0.0,
+      "trades": 158
     },
     {
       "id": "K",
@@ -443,20 +443,20 @@
       "name": "Sniper-Wide",
       "branch": "sniper2",
       "capital": 300.0,
-      "equity": 161.5,
-      "profit_usd": -138.5,
-      "profit_pct": -46.17,
-      "fees_usd": 0.08,
-      "trades": 31
+      "equity": 161.16,
+      "profit_usd": -138.84,
+      "profit_pct": -46.28,
+      "fees_usd": 0.06,
+      "trades": 32
     },
     {
       "id": "OP4",
       "name": "Dump-Bounce",
       "branch": "opus",
       "capital": 300.0,
-      "equity": 148.92,
-      "profit_usd": -151.08,
-      "profit_pct": -50.36,
+      "equity": 147.98,
+      "profit_usd": -152.02,
+      "profit_pct": -50.67,
       "fees_usd": 12.06,
       "trades": 155
     },
@@ -465,11 +465,11 @@
       "name": "Neg-Funding Long",
       "branch": "opus",
       "capital": 300.0,
-      "equity": 89.59,
-      "profit_usd": -210.41,
-      "profit_pct": -70.14,
-      "fees_usd": 20.23,
-      "trades": 155
+      "equity": 88.89,
+      "profit_usd": -211.11,
+      "profit_pct": -70.37,
+      "fees_usd": 20.33,
+      "trades": 158
     },
     {
       "id": "X",
@@ -1139,61 +1139,61 @@
     "name": "Perp-Sniper",
     "branch": "futures",
     "capital": 300.0,
-    "equity": 477.94,
-    "profit_usd": 177.94,
-    "profit_pct": 59.31,
-    "fees_usd": 5.42,
-    "trades": 14
+    "equity": 486.45,
+    "profit_usd": 186.45,
+    "profit_pct": 62.15,
+    "fees_usd": 5.92,
+    "trades": 15
   },
-  "total_trades": 2115,
-  "total_fees": 622.81,
+  "total_trades": 2065,
+  "total_fees": 636.5,
   "branches": [
     {
       "branch": "flip",
-      "profit": 362.9,
-      "equity": 2162.9,
+      "profit": 372.96,
+      "equity": 2172.96,
       "capital": 1800.0,
-      "pct": 20.16,
+      "pct": 20.72,
       "count": 6
     },
     {
-      "branch": "spot",
-      "profit": -33.73,
-      "equity": 2966.27,
-      "capital": 3000.0,
-      "pct": -1.12,
-      "count": 10
-    },
-    {
       "branch": "sniper2",
-      "profit": -42.7,
-      "equity": 1457.3,
+      "profit": -44.32,
+      "equity": 1455.68,
       "capital": 1500.0,
-      "pct": -2.85,
+      "pct": -2.95,
       "count": 5
     },
     {
       "branch": "loot",
-      "profit": -64.12,
-      "equity": 835.88,
+      "profit": -64.1,
+      "equity": 835.9,
       "capital": 900.0,
       "pct": -7.12,
       "count": 3
     },
     {
       "branch": "futures",
-      "profit": -175.16,
-      "equity": 1324.84,
+      "profit": -152.84,
+      "equity": 1347.16,
       "capital": 1500.0,
-      "pct": -11.68,
+      "pct": -10.19,
       "count": 5
     },
     {
-      "branch": "opus",
-      "profit": -374.25,
-      "equity": 2625.75,
+      "branch": "spot",
+      "profit": -157.59,
+      "equity": 2842.41,
       "capital": 3000.0,
-      "pct": -12.47,
+      "pct": -5.25,
+      "count": 10
+    },
+    {
+      "branch": "opus",
+      "profit": -376.92,
+      "equity": 2623.08,
+      "capital": 3000.0,
+      "pct": -12.56,
       "count": 10
     }
   ],
@@ -2271,8 +2271,8 @@
     }
   },
   "v2_fee": "paper = live KC: taker 0.10% + slip/spread на каждую сделку",
-  "winners_n": 20,
-  "losers_n": 18,
+  "winners_n": 18,
+  "losers_n": 20,
   "fear_greed": {
     "value": 22,
     "label": "Extreme Fear"
@@ -2280,25 +2280,25 @@
   "smartflow": [
     {
       "symbol": "ARBUSDT",
-      "price": 0.08536,
-      "volume_usd": 1668406.8589926,
-      "change_pct": 10.97,
+      "price": 0.08534,
+      "volume_usd": 1678318.3184901,
+      "change_pct": 12.35,
       "tag": "CoinGecko trending",
       "source": "cg"
     },
     {
       "symbol": "SLXUSDT",
-      "price": 0.176,
-      "volume_usd": 5181619.90194,
-      "change_pct": -5.53,
+      "price": 0.172,
+      "volume_usd": 5834519.75372,
+      "change_pct": -8.9,
       "tag": "CoinGecko trending",
       "source": "cg"
     },
     {
       "symbol": "PENGUUSDT",
-      "price": 0.006212,
-      "volume_usd": 1664069.533744,
-      "change_pct": 0.9900000000000001,
+      "price": 0.006201,
+      "volume_usd": 1605173.662491,
+      "change_pct": 1.34,
       "tag": "CoinGecko trending",
       "source": "cg"
     }
@@ -2753,36 +2753,51 @@
     "reset_at": "28.06.2026 09:50 UTC"
   },
   "fable5": {
-    "updated": "09.07.2026 07:50 UTC",
+    "updated": "09.07.2026 09:45 UTC",
     "start": "09.07.2026",
     "end": "16.07.2026",
     "deposit": 200.0,
     "per_bot": 10.0,
     "totals": {
-      "equity": 197.55,
-      "profit": -2.45,
-      "pct": -1.22,
-      "trades": 20,
-      "fees": 1.83,
-      "funding": 0.012,
-      "open": 7,
+      "equity": 198.21,
+      "profit": -1.79,
+      "pct": -0.9,
+      "trades": 31,
+      "fees": 1.92,
+      "funding": 0.024,
+      "open": 8,
       "bots": 20
     },
     "bots": [
+      {
+        "id": "F18",
+        "name": "Фейд-Пампа",
+        "strategy": "fade",
+        "group": "контроль",
+        "thesis": "Памп +15% уже откатился на 7% — шорт перп: пампы на KC почти всегда сдуваются.",
+        "eq": 10.24,
+        "profit_usd": 0.24,
+        "pnl_pct": 2.39,
+        "trades": 5,
+        "fees": 0.05,
+        "funding": -0.001,
+        "open": 1,
+        "note": "шорт NEX: памп +16%, уже −22% с хая"
+      },
       {
         "id": "F20",
         "name": "HODL BTC",
         "strategy": "hodl",
         "group": "бенчмарк",
         "thesis": "Купил BTC и держу. Планка честности: любой бот, который хуже холда, — лишний.",
-        "eq": 10.11,
-        "profit_usd": 0.11,
-        "pnl_pct": 1.07,
+        "eq": 10.05,
+        "profit_usd": 0.05,
+        "pnl_pct": 0.54,
         "trades": 1,
         "fees": 0.01,
         "funding": 0.0,
         "open": 1,
-        "note": "холд BTC +1.07%"
+        "note": "холд BTC +0.54%"
       },
       {
         "id": "F01",
@@ -2887,7 +2902,7 @@
         "fees": 0.0,
         "funding": 0.0,
         "open": 0,
-        "note": "треугольник: лучший -0.457% — после fee нет края"
+        "note": "треугольник: лучший -0.425% — после fee нет края"
       },
       {
         "id": "F11",
@@ -2902,7 +2917,7 @@
         "fees": 0.0,
         "funding": 0.0,
         "open": 0,
-        "note": "Bybit -0.13% / KC -0.10% — лага нет"
+        "note": "Bybit -0.18% / KC -0.22% — лага нет"
       },
       {
         "id": "F12",
@@ -2917,7 +2932,7 @@
         "fees": 0.0,
         "funding": 0.0,
         "open": 0,
-        "note": "копл. историю 5/48 циклов"
+        "note": "копл. историю 8/48 циклов"
       },
       {
         "id": "F13",
@@ -2932,7 +2947,7 @@
         "fees": 0.0,
         "funding": 0.0,
         "open": 0,
-        "note": "копл. историю 5/48 циклов"
+        "note": "копл. историю 8/48 циклов"
       },
       {
         "id": "F14",
@@ -2980,32 +2995,17 @@
         "note": "нет дипа ≤−4% на мейджорах"
       },
       {
-        "id": "F17",
-        "name": "Пробой-Моментум",
-        "strategy": "mom",
-        "group": "контроль",
-        "thesis": "Контрольная группа: классический пробой хая. Если связки не бьют даже это — плохо.",
-        "eq": 9.98,
-        "profit_usd": -0.02,
-        "pnl_pct": -0.18,
-        "trades": 1,
-        "fees": 0.01,
-        "funding": 0.0,
-        "open": 1,
-        "note": "еду на тренде (trail-стоп)"
-      },
-      {
         "id": "F06",
         "name": "Funding-Топ",
         "strategy": "carry",
         "group": "carry",
         "thesis": "Лонг спот + шорт перп = нейтрально к цене, собираю funding. Порог 0.03%/8ч ≈ 0.09%/день.",
-        "eq": 9.95,
-        "profit_usd": -0.05,
-        "pnl_pct": -0.47,
+        "eq": 9.96,
+        "profit_usd": -0.04,
+        "pnl_pct": -0.39,
         "trades": 3,
         "fees": 0.04,
-        "funding": 0.002,
+        "funding": 0.006,
         "open": 1,
         "note": "carry: держу XAN"
       },
@@ -3015,14 +3015,29 @@
         "strategy": "carry",
         "group": "carry",
         "thesis": "Carry, но капитал на 3 монеты сразу — меньше зависимость от одного funding.",
-        "eq": 9.94,
-        "profit_usd": -0.06,
-        "pnl_pct": -0.6,
-        "trades": 5,
-        "fees": 0.03,
-        "funding": 0.002,
+        "eq": 9.91,
+        "profit_usd": -0.09,
+        "pnl_pct": -0.93,
+        "trades": 9,
+        "fees": 0.05,
+        "funding": 0.006,
         "open": 3,
-        "note": "carry: держу GIGGLE,XAN,CAP"
+        "note": "carry: держу XAN,US,TRIA"
+      },
+      {
+        "id": "F17",
+        "name": "Пробой-Моментум",
+        "strategy": "mom",
+        "group": "контроль",
+        "thesis": "Контрольная группа: классический пробой хая. Если связки не бьют даже это — плохо.",
+        "eq": 9.87,
+        "profit_usd": -0.13,
+        "pnl_pct": -1.27,
+        "trades": 1,
+        "fees": 0.01,
+        "funding": 0.0,
+        "open": 1,
+        "note": "еду на тренде (trail-стоп)"
       },
       {
         "id": "F08",
@@ -3030,29 +3045,14 @@
         "strategy": "negf",
         "group": "carry",
         "thesis": "Когда funding сильно отрицательный — шортов перебор. Лонг перп: платят за позицию + шанс шорт-сквиза.",
-        "eq": 9.57,
-        "profit_usd": -0.43,
-        "pnl_pct": -4.29,
-        "trades": 3,
-        "fees": 0.03,
-        "funding": 0.009,
+        "eq": 9.47,
+        "profit_usd": -0.53,
+        "pnl_pct": -5.3,
+        "trades": 7,
+        "fees": 0.07,
+        "funding": 0.013,
         "open": 1,
-        "note": "держу long, собираю funding"
-      },
-      {
-        "id": "F18",
-        "name": "Фейд-Пампа",
-        "strategy": "fade",
-        "group": "контроль",
-        "thesis": "Памп +15% уже откатился на 7% — шорт перп: пампы на KC почти всегда сдуваются.",
-        "eq": 9.29,
-        "profit_usd": -0.71,
-        "pnl_pct": -7.1,
-        "trades": 2,
-        "fees": 0.02,
-        "funding": -0.001,
-        "open": 0,
-        "note": "нет перегретых пампов с откатом"
+        "note": "long OGN funding -0.564%/8ч"
       },
       {
         "id": "F04",
@@ -3067,10 +3067,100 @@
         "fees": 1.69,
         "funding": 0.0,
         "open": 0,
-        "note": "BONKUSDT bybit→kucoin +0.74% · ребаланс −$0.8"
+        "note": "лимит связок на день"
       }
     ],
     "recent_trades": [
+      {
+        "ts": "2026-07-09T09:45:45.537246+00:00",
+        "bot": "F18",
+        "type": "fade_open",
+        "sym": "NEXUSDT",
+        "side": "short",
+        "price": 3.059e-06
+      },
+      {
+        "ts": "2026-07-09T09:45:45.535351+00:00",
+        "bot": "F18",
+        "type": "fade_close",
+        "sym": "NEXUSDT",
+        "profit": 0.9598,
+        "reason": "тейк"
+      },
+      {
+        "ts": "2026-07-09T09:45:44.975357+00:00",
+        "bot": "F08",
+        "type": "negf_open",
+        "sym": "OGNUSDT",
+        "side": "long",
+        "price": 0.01752
+      },
+      {
+        "ts": "2026-07-09T09:45:44.972541+00:00",
+        "bot": "F08",
+        "type": "negf_close",
+        "sym": "GWEIUSDT",
+        "profit": 0.2714,
+        "reason": "тейк"
+      },
+      {
+        "ts": "2026-07-09T08:29:40.891075+00:00",
+        "bot": "F19",
+        "type": "carry_open",
+        "sym": "TRIAUSDT",
+        "funding_8h_pct": 0.1452,
+        "notional": 2.84
+      },
+      {
+        "ts": "2026-07-09T08:29:40.888990+00:00",
+        "bot": "F19",
+        "type": "carry_open",
+        "sym": "USUSDT",
+        "funding_8h_pct": 0.4026,
+        "notional": 1.89
+      },
+      {
+        "ts": "2026-07-09T08:29:40.885295+00:00",
+        "bot": "F19",
+        "type": "carry_close",
+        "sym": "CAPUSDT",
+        "profit": -0.0089,
+        "funding": 0.0005,
+        "reason": "funding иссяк"
+      },
+      {
+        "ts": "2026-07-09T08:29:40.883507+00:00",
+        "bot": "F19",
+        "type": "carry_close",
+        "sym": "GIGGLEUSDT",
+        "profit": -0.005,
+        "funding": 0.0004,
+        "reason": "funding иссяк"
+      },
+      {
+        "ts": "2026-07-09T08:29:40.878383+00:00",
+        "bot": "F18",
+        "type": "fade_open",
+        "sym": "NEXUSDT",
+        "side": "short",
+        "price": 3.415e-06
+      },
+      {
+        "ts": "2026-07-09T08:29:40.317664+00:00",
+        "bot": "F08",
+        "type": "negf_open",
+        "sym": "GWEIUSDT",
+        "side": "long",
+        "price": 0.086703
+      },
+      {
+        "ts": "2026-07-09T08:29:40.315818+00:00",
+        "bot": "F08",
+        "type": "negf_close",
+        "sym": "SLXUSDT",
+        "profit": -0.5217,
+        "reason": "стоп"
+      },
       {
         "ts": "2026-07-09T07:50:19.552290+00:00",
         "bot": "F04",
@@ -3103,101 +3193,6 @@
         "sym": "OGNUSDT",
         "profit": -0.2697,
         "reason": "стоп"
-      },
-      {
-        "ts": "2026-07-09T07:09:42.921348+00:00",
-        "bot": "F04",
-        "type": "arb",
-        "sym": "BONKUSDT",
-        "route": "bybit→kucoin",
-        "net_pct": 0.72,
-        "profit": 0.0675,
-        "size": 9.3714
-      },
-      {
-        "ts": "2026-07-09T06:31:54.750814+00:00",
-        "bot": "F18",
-        "type": "fade_close",
-        "sym": "VANRYUSDT",
-        "profit": -0.7098,
-        "reason": "стоп"
-      },
-      {
-        "ts": "2026-07-09T06:31:54.145177+00:00",
-        "bot": "F04",
-        "type": "arb",
-        "sym": "BONKUSDT",
-        "route": "bybit→kucoin",
-        "net_pct": 0.567,
-        "profit": 0.0528,
-        "size": 9.3186
-      },
-      {
-        "ts": "2026-07-09T05:54:24.669980+00:00",
-        "bot": "F19",
-        "type": "carry_open",
-        "sym": "XANUSDT",
-        "funding_8h_pct": 0.1542,
-        "notional": 2.39
-      },
-      {
-        "ts": "2026-07-09T05:54:24.666161+00:00",
-        "bot": "F19",
-        "type": "carry_close",
-        "sym": "USUSDT",
-        "profit": -0.0042,
-        "funding": -0.0002,
-        "reason": "funding иссяк"
-      },
-      {
-        "ts": "2026-07-09T05:54:24.081789+00:00",
-        "bot": "F06",
-        "type": "carry_open",
-        "sym": "XANUSDT",
-        "funding_8h_pct": 0.1542,
-        "notional": 4.99
-      },
-      {
-        "ts": "2026-07-09T05:54:24.075784+00:00",
-        "bot": "F06",
-        "type": "carry_close",
-        "sym": "USUSDT",
-        "profit": -0.0125,
-        "funding": -0.0005,
-        "reason": "funding иссяк"
-      },
-      {
-        "ts": "2026-07-09T05:54:24.068993+00:00",
-        "bot": "F04",
-        "type": "arb",
-        "sym": "BONKUSDT",
-        "route": "mexc→kucoin",
-        "net_pct": 0.617,
-        "profit": 0.0617,
-        "size": 10.0
-      },
-      {
-        "ts": "2026-07-09T04:39:42.545302+00:00",
-        "bot": "F20",
-        "type": "hodl_open",
-        "sym": "BTCUSDT",
-        "price": 62353.82
-      },
-      {
-        "ts": "2026-07-09T04:39:42.543980+00:00",
-        "bot": "F19",
-        "type": "carry_open",
-        "sym": "CAPUSDT",
-        "funding_8h_pct": 0.0764,
-        "notional": 3.12
-      },
-      {
-        "ts": "2026-07-09T04:39:42.543092+00:00",
-        "bot": "F19",
-        "type": "carry_open",
-        "sym": "GIGGLEUSDT",
-        "funding_8h_pct": 0.0817,
-        "notional": 2.08
       }
     ],
     "thinking": {
